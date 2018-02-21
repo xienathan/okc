@@ -1,0 +1,1315 @@
+,home_team_name,home_team_score,start_time,visiting_team_name,visiting_team_score
+0,Cleveland Cavaliers,94,2012-10-30 23:00:00,Washington Wizards,84
+1,Los Angeles Lakers,91,2012-10-30 23:30:00,Dallas Mavericks,99
+2,Miami Heat,120,2012-10-31 00:00:00,Boston Celtics,107
+3,Chicago Bulls,93,2012-10-31 23:00:00,Sacramento Kings,87
+4,Detroit Pistons,96,2012-10-31 23:30:00,Houston Rockets,105
+5,Los Angeles Clippers,101,2012-10-31 23:30:00,Memphis Grizzlies,92
+6,New Orleans Hornets,95,2012-10-31 23:00:00,San Antonio Spurs,99
+7,Philadelphia 76ers,84,2012-10-31 23:00:00,Denver Nuggets,75
+8,Phoenix Suns,85,2012-10-31 23:00:00,Golden State Warriors,87
+9,Portland Trail Blazers,116,2012-10-31 23:30:00,Los Angeles Lakers,106
+10,Toronto Raptors,88,2012-10-31 23:00:00,Indiana Pacers,90
+11,Utah Jazz,113,2012-10-31 23:00:00,Dallas Mavericks,94
+12,San Antonio Spurs,86,2012-11-02 00:30:00,Oklahoma City Thunder,84
+13,Atlanta Hawks,102,2012-11-02 23:30:00,Houston Rockets,109
+14,Boston Celtics,88,2012-11-02 23:30:00,Milwaukee Bucks,99
+15,Charlotte Bobcats,90,2012-11-02 23:00:00,Indiana Pacers,89
+16,Cleveland Cavaliers,86,2012-11-02 23:30:00,Chicago Bulls,115
+17,Golden State Warriors,94,2012-11-02 23:30:00,Memphis Grizzlies,104
+18,Los Angeles Lakers,95,2012-11-02 23:30:00,Los Angeles Clippers,105
+19,Minnesota Timberwolves,92,2012-11-02 23:00:00,Sacramento Kings,80
+20,New Orleans Hornets,88,2012-11-02 23:00:00,Utah Jazz,86
+21,New York Knicks,104,2012-11-03 00:00:00,Miami Heat,84
+22,Oklahoma City Thunder,106,2012-11-02 23:00:00,Portland Trail Blazers,92
+23,Orlando Magic,102,2012-11-02 23:00:00,Denver Nuggets,89
+24,Phoenix Suns,92,2012-11-02 23:00:00,Detroit Pistons,89
+25,Brooklyn Nets,107,2012-11-03 23:30:00,Toronto Raptors,100
+26,Chicago Bulls,82,2012-11-03 23:00:00,New Orleans Hornets,89
+27,Dallas Mavericks,126,2012-11-03 23:30:00,Charlotte Bobcats,99
+28,Houston Rockets,85,2012-11-03 23:00:00,Portland Trail Blazers,95
+29,Indiana Pacers,106,2012-11-03 23:00:00,Sacramento Kings,98
+30,Los Angeles Clippers,110,2012-11-03 23:30:00,Golden State Warriors,114
+31,Miami Heat,119,2012-11-03 23:30:00,Denver Nuggets,116
+32,Milwaukee Bucks,105,2012-11-03 23:30:00,Cleveland Cavaliers,102
+33,San Antonio Spurs,110,2012-11-03 23:30:00,Utah Jazz,100
+34,Washington Wizards,86,2012-11-03 23:00:00,Boston Celtics,89
+35,Los Angeles Lakers,108,2012-11-04 23:30:00,Detroit Pistons,79
+36,New York Knicks,100,2012-11-04 17:00:00,Philadelphia 76ers,84
+37,Oklahoma City Thunder,95,2012-11-04 23:00:00,Atlanta Hawks,104
+38,Orlando Magic,115,2012-11-04 23:00:00,Phoenix Suns,94
+39,Toronto Raptors,105,2012-11-04 23:00:00,Minnesota Timberwolves,86
+40,Brooklyn Nets,96,2012-11-06 00:30:00,Minnesota Timberwolves,107
+41,Dallas Mavericks,114,2012-11-06 00:30:00,Portland Trail Blazers,91
+42,Los Angeles Clippers,101,2012-11-06 00:30:00,Cleveland Cavaliers,108
+43,Memphis Grizzlies,103,2012-11-06 00:00:00,Utah Jazz,94
+44,Miami Heat,124,2012-11-06 00:30:00,Phoenix Suns,99
+45,Philadelphia 76ers,88,2012-11-06 00:00:00,New York Knicks,110
+46,Sacramento Kings,94,2012-11-06 00:00:00,Golden State Warriors,92
+47,San Antonio Spurs,101,2012-11-06 00:30:00,Indiana Pacers,79
+48,Chicago Bulls,99,2012-11-07 00:00:00,Orlando Magic,93
+49,Denver Nuggets,109,2012-11-07 00:00:00,Detroit Pistons,97
+50,Oklahoma City Thunder,108,2012-11-07 00:00:00,Toronto Raptors,88
+51,Atlanta Hawks,89,2012-11-08 00:30:00,Indiana Pacers,86
+52,Boston Celtics,100,2012-11-08 00:30:00,Washington Wizards,94
+53,Charlotte Bobcats,110,2012-11-08 00:00:00,Phoenix Suns,117
+54,Dallas Mavericks,109,2012-11-08 00:30:00,Toronto Raptors,104
+55,Golden State Warriors,106,2012-11-08 00:30:00,Cleveland Cavaliers,96
+56,Houston Rockets,87,2012-11-08 00:00:00,Denver Nuggets,93
+57,Los Angeles Clippers,106,2012-11-08 00:30:00,San Antonio Spurs,84
+58,Miami Heat,103,2012-11-08 00:30:00,Brooklyn Nets,73
+59,Milwaukee Bucks,90,2012-11-08 00:00:00,Memphis Grizzlies,108
+60,Minnesota Timberwolves,90,2012-11-08 00:00:00,Orlando Magic,75
+61,New Orleans Hornets,62,2012-11-08 00:00:00,Philadelphia 76ers,77
+62,Sacramento Kings,105,2012-11-08 00:00:00,Detroit Pistons,103
+63,Utah Jazz,95,2012-11-08 00:00:00,Los Angeles Lakers,86
+64,Chicago Bulls,91,2012-11-09 00:00:00,Oklahoma City Thunder,97
+65,Portland Trail Blazers,90,2012-11-09 00:30:00,Los Angeles Clippers,103
+66,Atlanta Hawks,89,2012-11-10 00:30:00,Miami Heat,95
+67,Boston Celtics,100,2012-11-10 00:30:00,Philadelphia 76ers,106
+68,Denver Nuggets,104,2012-11-10 01:30:00,Utah Jazz,84
+69,Los Angeles Lakers,101,2012-11-10 00:30:00,Golden State Warriors,77
+70,Memphis Grizzlies,93,2012-11-10 00:00:00,Houston Rockets,85
+71,Minnesota Timberwolves,96,2012-11-10 00:00:00,Indiana Pacers,94
+72,New Orleans Hornets,107,2012-11-10 00:00:00,Charlotte Bobcats,99
+73,New York Knicks,104,2012-11-10 00:30:00,Dallas Mavericks,94
+74,Oklahoma City Thunder,105,2012-11-10 00:00:00,Detroit Pistons,94
+75,Orlando Magic,68,2012-11-10 00:00:00,Brooklyn Nets,107
+76,Phoenix Suns,107,2012-11-10 00:00:00,Cleveland Cavaliers,105
+77,Sacramento Kings,86,2012-11-10 00:00:00,San Antonio Spurs,97
+78,Washington Wizards,91,2012-11-10 00:00:00,Milwaukee Bucks,101
+79,Charlotte Bobcats,101,2012-11-11 00:30:00,Dallas Mavericks,97
+80,Chicago Bulls,87,2012-11-11 00:00:00,Minnesota Timberwolves,80
+81,Golden State Warriors,101,2012-11-11 00:30:00,Denver Nuggets,107
+82,Houston Rockets,96,2012-11-11 00:00:00,Detroit Pistons,82
+83,Indiana Pacers,89,2012-11-11 00:00:00,Washington Wizards,85
+84,Milwaukee Bucks,92,2012-11-11 00:30:00,Boston Celtics,96
+85,Portland Trail Blazers,109,2012-11-11 00:00:00,San Antonio Spurs,112
+86,Toronto Raptors,83,2012-11-11 00:00:00,Philadelphia 76ers,93
+87,Utah Jazz,94,2012-11-11 00:00:00,Phoenix Suns,81
+88,Brooklyn Nets,82,2012-11-11 20:00:00,Orlando Magic,74
+89,Los Angeles Clippers,89,2012-11-11 17:30:00,Atlanta Hawks,76
+90,Los Angeles Lakers,103,2012-11-11 23:30:00,Sacramento Kings,90
+91,Memphis Grizzlies,104,2012-11-11 22:00:00,Miami Heat,86
+92,Oklahoma City Thunder,106,2012-11-11 23:00:00,Cleveland Cavaliers,91
+93,Chicago Bulls,95,2012-11-13 00:00:00,Boston Celtics,101
+94,Dallas Mavericks,82,2012-11-13 00:30:00,Minnesota Timberwolves,90
+95,Detroit Pistons,90,2012-11-13 00:30:00,Oklahoma City Thunder,92
+96,Houston Rockets,110,2012-11-13 00:00:00,Miami Heat,113
+97,Philadelphia 76ers,96,2012-11-13 00:00:00,Milwaukee Bucks,105
+98,Phoenix Suns,110,2012-11-13 00:00:00,Denver Nuggets,100
+99,Portland Trail Blazers,87,2012-11-13 00:00:00,Atlanta Hawks,95
+100,Toronto Raptors,133,2012-11-13 00:00:00,Utah Jazz,140
+101,Brooklyn Nets,114,2012-11-14 00:30:00,Cleveland Cavaliers,101
+102,Charlotte Bobcats,92,2012-11-14 00:00:00,Washington Wizards,76
+103,Indiana Pacers,72,2012-11-14 00:00:00,Toronto Raptors,74
+104,Los Angeles Lakers,82,2012-11-14 00:30:00,San Antonio Spurs,84
+105,Orlando Magic,89,2012-11-14 00:00:00,New York Knicks,99
+106,Sacramento Kings,86,2012-11-14 00:00:00,Portland Trail Blazers,103
+107,Boston Celtics,98,2012-11-15 00:30:00,Utah Jazz,93
+108,Dallas Mavericks,107,2012-11-15 00:30:00,Washington Wizards,101
+109,Golden State Warriors,92,2012-11-15 00:30:00,Atlanta Hawks,88
+110,Houston Rockets,100,2012-11-15 00:00:00,New Orleans Hornets,96
+111,Los Angeles Clippers,107,2012-11-15 00:30:00,Miami Heat,100
+112,Milwaukee Bucks,99,2012-11-15 00:00:00,Indiana Pacers,85
+113,Minnesota Timberwolves,87,2012-11-15 00:00:00,Charlotte Bobcats,89
+114,Oklahoma City Thunder,97,2012-11-15 00:00:00,Memphis Grizzlies,107
+115,Philadelphia 76ers,76,2012-11-15 00:00:00,Detroit Pistons,94
+116,Phoenix Suns,106,2012-11-15 00:00:00,Chicago Bulls,112
+117,Brooklyn Nets,102,2012-11-16 01:00:00,Boston Celtics,97
+118,Denver Nuggets,93,2012-11-16 01:30:00,Miami Heat,98
+119,San Antonio Spurs,100,2012-11-16 00:30:00,New York Knicks,104
+120,Detroit Pistons,106,2012-11-17 00:30:00,Orlando Magic,110
+121,Indiana Pacers,103,2012-11-17 00:00:00,Dallas Mavericks,83
+122,Los Angeles Lakers,114,2012-11-17 00:30:00,Phoenix Suns,102
+123,Memphis Grizzlies,105,2012-11-17 01:30:00,New York Knicks,95
+124,Minnesota Timberwolves,98,2012-11-17 00:00:00,Golden State Warriors,106
+125,New Orleans Hornets,95,2012-11-17 00:00:00,Oklahoma City Thunder,110
+126,Philadelphia 76ers,99,2012-11-17 00:00:00,Utah Jazz,93
+127,Portland Trail Blazers,119,2012-11-17 00:00:00,Houston Rockets,117
+128,Sacramento Kings,96,2012-11-17 00:00:00,Atlanta Hawks,112
+129,Boston Celtics,107,2012-11-17 17:30:00,Toronto Raptors,89
+130,Charlotte Bobcats,87,2012-11-18 00:30:00,Memphis Grizzlies,94
+131,Cleveland Cavaliers,95,2012-11-18 00:30:00,Dallas Mavericks,103
+132,Los Angeles Clippers,101,2012-11-17 23:00:00,Chicago Bulls,80
+133,Milwaukee Bucks,117,2012-11-18 00:30:00,New Orleans Hornets,113
+134,Phoenix Suns,88,2012-11-18 00:00:00,Miami Heat,97
+135,San Antonio Spurs,126,2012-11-18 00:30:00,Denver Nuggets,100
+136,Washington Wizards,76,2012-11-18 00:00:00,Utah Jazz,83
+137,Detroit Pistons,103,2012-11-19 00:30:00,Boston Celtics,83
+138,Los Angeles Lakers,119,2012-11-18 23:30:00,Houston Rockets,108
+139,New York Knicks,88,2012-11-18 17:00:00,Indiana Pacers,76
+140,Oklahoma City Thunder,119,2012-11-18 23:00:00,Golden State Warriors,109
+141,Philadelphia 76ers,86,2012-11-18 23:00:00,Cleveland Cavaliers,79
+142,Portland Trail Blazers,102,2012-11-18 23:00:00,Chicago Bulls,94
+143,Sacramento Kings,90,2012-11-18 20:00:00,Brooklyn Nets,99
+144,Toronto Raptors,97,2012-11-18 18:00:00,Orlando Magic,86
+145,Atlanta Hawks,81,2012-11-20 00:30:00,Orlando Magic,72
+146,Charlotte Bobcats,102,2012-11-20 00:00:00,Milwaukee Bucks,98
+147,Dallas Mavericks,101,2012-11-20 00:30:00,Golden State Warriors,105
+148,Memphis Grizzlies,92,2012-11-20 00:00:00,Denver Nuggets,97
+149,San Antonio Spurs,87,2012-11-20 00:30:00,Los Angeles Clippers,92
+150,Utah Jazz,102,2012-11-20 00:00:00,Houston Rockets,91
+151,Washington Wizards,89,2012-11-20 00:00:00,Indiana Pacers,96
+152,Los Angeles Lakers,95,2012-11-21 00:30:00,Brooklyn Nets,90
+153,New Orleans Hornets,80,2012-11-21 00:00:00,New York Knicks,102
+154,Philadelphia 76ers,106,2012-11-21 00:00:00,Toronto Raptors,98
+155,Atlanta Hawks,101,2012-11-22 00:30:00,Washington Wizards,100
+156,Boston Celtics,100,2012-11-22 00:30:00,San Antonio Spurs,112
+157,Charlotte Bobcats,98,2012-11-22 00:00:00,Toronto Raptors,97
+158,Cleveland Cavaliers,92,2012-11-22 00:00:00,Philadelphia 76ers,83
+159,Dallas Mavericks,114,2012-11-22 00:30:00,New York Knicks,111
+160,Golden State Warriors,102,2012-11-22 00:30:00,Brooklyn Nets,93
+161,Houston Rockets,93,2012-11-22 00:00:00,Chicago Bulls,89
+162,Indiana Pacers,115,2012-11-22 00:00:00,New Orleans Hornets,107
+163,Miami Heat,113,2012-11-22 00:30:00,Milwaukee Bucks,106
+164,Minnesota Timberwolves,94,2012-11-22 00:00:00,Denver Nuggets,101
+165,Oklahoma City Thunder,117,2012-11-21 23:30:00,Los Angeles Clippers,111
+166,Orlando Magic,90,2012-11-22 00:00:00,Detroit Pistons,74
+167,Phoenix Suns,114,2012-11-22 00:00:00,Portland Trail Blazers,87
+168,Sacramento Kings,113,2012-11-22 00:00:00,Los Angeles Lakers,97
+169,Boston Celtics,108,2012-11-24 00:30:00,Oklahoma City Thunder,100
+170,Brooklyn Nets,86,2012-11-24 00:30:00,Los Angeles Clippers,76
+171,Charlotte Bobcats,91,2012-11-24 00:00:00,Atlanta Hawks,101
+172,Denver Nuggets,102,2012-11-24 00:00:00,Golden State Warriors,91
+173,Detroit Pistons,91,2012-11-24 00:30:00,Toronto Raptors,90
+174,Houston Rockets,131,2012-11-24 00:00:00,New York Knicks,103
+175,Indiana Pacers,97,2012-11-24 01:00:00,San Antonio Spurs,104
+176,Memphis Grizzlies,106,2012-11-24 00:00:00,Los Angeles Lakers,98
+177,Orlando Magic,108,2012-11-24 00:00:00,Cleveland Cavaliers,104
+178,Phoenix Suns,111,2012-11-24 00:00:00,New Orleans Hornets,108
+179,Portland Trail Blazers,103,2012-11-24 00:00:00,Minnesota Timberwolves,95
+180,Utah Jazz,104,2012-11-24 00:00:00,Sacramento Kings,102
+181,Atlanta Hawks,104,2012-11-25 00:00:00,Los Angeles Clippers,93
+182,Dallas Mavericks,89,2012-11-25 00:30:00,Los Angeles Lakers,115
+183,Golden State Warriors,96,2012-11-25 00:30:00,Minnesota Timberwolves,85
+184,Miami Heat,110,2012-11-25 00:30:00,Cleveland Cavaliers,108
+185,Milwaukee Bucks,86,2012-11-25 01:00:00,Chicago Bulls,93
+186,Philadelphia 76ers,109,2012-11-25 00:00:00,Oklahoma City Thunder,116
+187,Sacramento Kings,108,2012-11-25 00:00:00,Utah Jazz,97
+188,Washington Wizards,106,2012-11-25 00:00:00,Charlotte Bobcats,108
+189,Brooklyn Nets,98,2012-11-25 20:00:00,Portland Trail Blazers,85
+190,Denver Nuggets,102,2012-11-25 23:00:00,New Orleans Hornets,84
+191,New York Knicks,121,2012-11-25 18:00:00,Detroit Pistons,100
+192,Orlando Magic,110,2012-11-25 23:00:00,Boston Celtics,116
+193,Philadelphia 76ers,104,2012-11-25 23:00:00,Phoenix Suns,101
+194,Toronto Raptors,106,2012-11-25 18:00:00,San Antonio Spurs,111
+195,Brooklyn Nets,96,2012-11-27 00:00:00,New York Knicks,89
+196,Chicago Bulls,92,2012-11-27 00:00:00,Milwaukee Bucks,93
+197,Detroit Pistons,108,2012-11-27 00:30:00,Portland Trail Blazers,101
+198,Los Angeles Clippers,98,2012-11-27 00:30:00,New Orleans Hornets,105
+199,Memphis Grizzlies,84,2012-11-27 00:00:00,Cleveland Cavaliers,78
+200,Oklahoma City Thunder,114,2012-11-27 00:00:00,Charlotte Bobcats,69
+201,Utah Jazz,105,2012-11-27 00:00:00,Denver Nuggets,103
+202,Washington Wizards,92,2012-11-27 00:00:00,San Antonio Spurs,118
+203,Cleveland Cavaliers,78,2012-11-28 00:00:00,Phoenix Suns,91
+204,Houston Rockets,117,2012-11-28 00:00:00,Toronto Raptors,101
+205,Los Angeles Lakers,77,2012-11-28 00:30:00,Indiana Pacers,79
+206,Philadelphia 76ers,100,2012-11-28 00:00:00,Dallas Mavericks,98
+207,Sacramento Kings,89,2012-11-28 00:00:00,Minnesota Timberwolves,97
+208,Atlanta Hawks,94,2012-11-29 00:30:00,Charlotte Bobcats,91
+209,Boston Celtics,83,2012-11-29 00:30:00,Brooklyn Nets,95
+210,Chicago Bulls,101,2012-11-29 00:00:00,Dallas Mavericks,78
+211,Detroit Pistons,117,2012-11-29 00:30:00,Phoenix Suns,77
+212,Los Angeles Clippers,101,2012-11-29 00:30:00,Minnesota Timberwolves,95
+213,Memphis Grizzlies,103,2012-11-29 00:00:00,Toronto Raptors,82
+214,Milwaukee Bucks,88,2012-11-29 00:00:00,New York Knicks,102
+215,New Orleans Hornets,84,2012-11-29 00:00:00,Utah Jazz,96
+216,Oklahoma City Thunder,120,2012-11-29 00:00:00,Houston Rockets,98
+217,Orlando Magic,89,2012-11-29 00:00:00,San Antonio Spurs,110
+218,Washington Wizards,84,2012-11-29 00:00:00,Portland Trail Blazers,82
+219,Golden State Warriors,106,2012-11-30 00:30:00,Denver Nuggets,105
+220,Miami Heat,105,2012-11-30 01:00:00,San Antonio Spurs,100
+221,Atlanta Hawks,111,2012-12-01 00:30:00,Cleveland Cavaliers,113
+222,Boston Celtics,96,2012-12-01 00:30:00,Portland Trail Blazers,78
+223,Charlotte Bobcats,98,2012-12-01 00:00:00,Philadelphia 76ers,104
+224,Los Angeles Lakers,122,2012-12-01 00:30:00,Denver Nuggets,103
+225,Memphis Grizzlies,90,2012-12-01 00:00:00,Detroit Pistons,78
+226,Minnesota Timberwolves,95,2012-12-01 00:00:00,Milwaukee Bucks,85
+227,New York Knicks,108,2012-12-01 00:30:00,Washington Wizards,87
+228,Oklahoma City Thunder,106,2012-12-01 00:00:00,Utah Jazz,94
+229,Orlando Magic,86,2012-12-01 00:00:00,Brooklyn Nets,98
+230,Sacramento Kings,92,2012-12-01 00:00:00,Indiana Pacers,97
+231,Toronto Raptors,101,2012-12-01 00:00:00,Phoenix Suns,97
+232,Chicago Bulls,93,2012-12-02 00:00:00,Philadelphia 76ers,88
+233,Cleveland Cavaliers,117,2012-12-02 00:30:00,Portland Trail Blazers,118
+234,Dallas Mavericks,92,2012-12-02 01:00:00,Detroit Pistons,77
+235,Golden State Warriors,103,2012-12-02 00:30:00,Indiana Pacers,92
+236,Houston Rockets,124,2012-12-02 00:00:00,Utah Jazz,116
+237,Los Angeles Clippers,116,2012-12-02 00:30:00,Sacramento Kings,81
+238,Miami Heat,102,2012-12-02 00:30:00,Brooklyn Nets,89
+239,Milwaukee Bucks,91,2012-12-02 00:30:00,Boston Celtics,88
+240,New Orleans Hornets,79,2012-12-02 00:00:00,Oklahoma City Thunder,100
+241,San Antonio Spurs,99,2012-12-02 00:30:00,Memphis Grizzlies,95
+242,Los Angeles Lakers,103,2012-12-02 23:30:00,Orlando Magic,113
+243,New York Knicks,106,2012-12-02 17:00:00,Phoenix Suns,99
+244,Charlotte Bobcats,112,2012-12-04 00:00:00,Portland Trail Blazers,118
+245,Denver Nuggets,113,2012-12-04 00:00:00,Toronto Raptors,110
+246,Detroit Pistons,89,2012-12-04 00:30:00,Cleveland Cavaliers,79
+247,Golden State Warriors,94,2012-12-04 00:30:00,Orlando Magic,102
+248,New Orleans Hornets,102,2012-12-04 00:00:00,Milwaukee Bucks,81
+249,Utah Jazz,104,2012-12-04 00:00:00,Los Angeles Clippers,105
+250,Brooklyn Nets,111,2012-12-05 00:30:00,Oklahoma City Thunder,117
+251,Chicago Bulls,76,2012-12-05 00:00:00,Indiana Pacers,80
+252,Houston Rockets,107,2012-12-05 00:00:00,Los Angeles Lakers,105
+253,Memphis Grizzlies,108,2012-12-05 00:00:00,Phoenix Suns,98
+254,Philadelphia 76ers,88,2012-12-05 00:00:00,Minnesota Timberwolves,105
+255,Washington Wizards,105,2012-12-05 00:00:00,Miami Heat,101
+256,Atlanta Hawks,108,2012-12-06 01:00:00,Denver Nuggets,104
+257,Boston Celtics,104,2012-12-06 00:30:00,Minnesota Timberwolves,94
+258,Charlotte Bobcats,98,2012-12-06 00:00:00,New York Knicks,100
+259,Cleveland Cavaliers,85,2012-12-06 01:00:00,Chicago Bulls,95
+260,Detroit Pistons,97,2012-12-06 00:30:00,Golden State Warriors,104
+261,Indiana Pacers,99,2012-12-06 00:00:00,Portland Trail Blazers,92
+262,Los Angeles Clippers,112,2012-12-06 00:30:00,Dallas Mavericks,90
+263,New Orleans Hornets,87,2012-12-06 00:00:00,Los Angeles Lakers,103
+264,Sacramento Kings,107,2012-12-06 00:00:00,Toronto Raptors,100
+265,San Antonio Spurs,110,2012-12-06 00:30:00,Milwaukee Bucks,99
+266,Utah Jazz,87,2012-12-06 00:00:00,Orlando Magic,81
+267,Miami Heat,92,2012-12-07 01:00:00,New York Knicks,112
+268,Phoenix Suns,94,2012-12-07 01:30:00,Dallas Mavericks,97
+269,Atlanta Hawks,104,2012-12-08 00:30:00,Washington Wizards,95
+270,Brooklyn Nets,102,2012-12-08 00:30:00,Golden State Warriors,109
+271,Detroit Pistons,104,2012-12-08 00:30:00,Chicago Bulls,108
+272,Indiana Pacers,89,2012-12-08 00:00:00,Denver Nuggets,92
+273,Milwaukee Bucks,108,2012-12-08 00:30:00,Charlotte Bobcats,93
+274,Minnesota Timberwolves,91,2012-12-08 00:00:00,Cleveland Cavaliers,73
+275,New Orleans Hornets,89,2012-12-08 00:00:00,Memphis Grizzlies,96
+276,Oklahoma City Thunder,114,2012-12-08 01:30:00,Los Angeles Lakers,108
+277,Philadelphia 76ers,95,2012-12-08 00:00:00,Boston Celtics,94
+278,Sacramento Kings,91,2012-12-08 00:00:00,Orlando Magic,82
+279,San Antonio Spurs,114,2012-12-08 00:30:00,Houston Rockets,92
+280,Utah Jazz,131,2012-12-08 00:00:00,Toronto Raptors,99
+281,Boston Celtics,92,2012-12-09 00:30:00,Philadelphia 76ers,79
+282,Charlotte Bobcats,102,2012-12-09 00:00:00,San Antonio Spurs,132
+283,Chicago Bulls,93,2012-12-09 00:00:00,New York Knicks,85
+284,Cleveland Cavaliers,97,2012-12-09 00:30:00,Detroit Pistons,104
+285,Houston Rockets,109,2012-12-09 00:00:00,Dallas Mavericks,116
+286,Los Angeles Clippers,117,2012-12-08 17:30:00,Phoenix Suns,99
+287,Memphis Grizzlies,83,2012-12-09 00:00:00,Atlanta Hawks,93
+288,Miami Heat,106,2012-12-09 00:30:00,New Orleans Hornets,90
+289,Portland Trail Blazers,80,2012-12-09 00:00:00,Sacramento Kings,99
+290,Washington Wizards,97,2012-12-09 00:00:00,Golden State Warriors,101
+291,Brooklyn Nets,88,2012-12-09 23:00:00,Milwaukee Bucks,97
+292,Los Angeles Clippers,102,2012-12-09 17:30:00,Toronto Raptors,83
+293,Los Angeles Lakers,110,2012-12-09 23:30:00,Utah Jazz,117
+294,New York Knicks,112,2012-12-10 00:30:00,Denver Nuggets,106
+295,Oklahoma City Thunder,104,2012-12-09 23:00:00,Indiana Pacers,93
+296,Phoenix Suns,90,2012-12-09 23:00:00,Orlando Magic,98
+297,Charlotte Bobcats,96,2012-12-11 00:00:00,Golden State Warriors,104
+298,Dallas Mavericks,119,2012-12-11 00:30:00,Sacramento Kings,96
+299,Houston Rockets,126,2012-12-11 00:00:00,San Antonio Spurs,134
+300,Miami Heat,101,2012-12-11 00:30:00,Atlanta Hawks,92
+301,Philadelphia 76ers,104,2012-12-11 00:00:00,Detroit Pistons,97
+302,Portland Trail Blazers,92,2012-12-11 00:00:00,Toronto Raptors,74
+303,Brooklyn Nets,97,2012-12-12 00:00:00,New York Knicks,100
+304,Chicago Bulls,89,2012-12-12 01:30:00,Los Angeles Clippers,94
+305,Cleveland Cavaliers,100,2012-12-12 00:00:00,Los Angeles Lakers,94
+306,Detroit Pistons,94,2012-12-12 00:30:00,Denver Nuggets,101
+307,New Orleans Hornets,70,2012-12-12 00:00:00,Washington Wizards,77
+308,Boston Celtics,117,2012-12-13 01:00:00,Dallas Mavericks,115
+309,Charlotte Bobcats,94,2012-12-13 00:30:00,Los Angeles Clippers,100
+310,Houston Rockets,99,2012-12-13 00:00:00,Washington Wizards,93
+311,Indiana Pacers,96,2012-12-13 00:00:00,Cleveland Cavaliers,81
+312,Miami Heat,95,2012-12-13 00:30:00,Golden State Warriors,97
+313,Milwaukee Bucks,98,2012-12-13 00:00:00,Sacramento Kings,85
+314,Minnesota Timberwolves,108,2012-12-13 00:00:00,Denver Nuggets,105
+315,Oklahoma City Thunder,92,2012-12-13 00:00:00,New Orleans Hornets,88
+316,Orlando Magic,80,2012-12-13 00:00:00,Atlanta Hawks,86
+317,Philadelphia 76ers,89,2012-12-13 00:30:00,Chicago Bulls,96
+318,Phoenix Suns,82,2012-12-13 00:00:00,Memphis Grizzlies,80
+319,Toronto Raptors,88,2012-12-13 00:00:00,Brooklyn Nets,94
+320,Utah Jazz,99,2012-12-13 01:30:00,San Antonio Spurs,96
+321,Atlanta Hawks,113,2012-12-14 00:30:00,Charlotte Bobcats,90
+322,New York Knicks,116,2012-12-14 01:00:00,Los Angeles Lakers,107
+323,Portland Trail Blazers,98,2012-12-14 00:30:00,San Antonio Spurs,90
+324,Brooklyn Nets,107,2012-12-15 00:30:00,Detroit Pistons,105
+325,Cleveland Cavaliers,86,2012-12-15 00:30:00,Milwaukee Bucks,90
+326,Denver Nuggets,99,2012-12-15 01:30:00,Memphis Grizzlies,94
+327,Houston Rockets,101,2012-12-15 00:00:00,Boston Celtics,89
+328,Indiana Pacers,95,2012-12-15 00:00:00,Philadelphia 76ers,85
+329,New Orleans Hornets,102,2012-12-15 00:00:00,Minnesota Timberwolves,113
+330,Oklahoma City Thunder,113,2012-12-15 00:00:00,Sacramento Kings,103
+331,Orlando Magic,99,2012-12-15 00:00:00,Golden State Warriors,85
+332,Phoenix Suns,99,2012-12-15 00:00:00,Utah Jazz,84
+333,Toronto Raptors,95,2012-12-15 00:00:00,Dallas Mavericks,74
+334,Washington Wizards,96,2012-12-15 00:00:00,Los Angeles Lakers,102
+335,Atlanta Hawks,93,2012-12-16 00:00:00,Golden State Warriors,115
+336,Charlotte Bobcats,98,2012-12-16 00:30:00,Orlando Magic,107
+337,Chicago Bulls,83,2012-12-16 00:00:00,Brooklyn Nets,82
+338,Detroit Pistons,77,2012-12-16 00:30:00,Indiana Pacers,88
+339,Miami Heat,102,2012-12-16 00:30:00,Washington Wizards,72
+340,Milwaukee Bucks,85,2012-12-16 00:30:00,Los Angeles Clippers,111
+341,Minnesota Timberwolves,114,2012-12-16 00:00:00,Dallas Mavericks,106
+342,New York Knicks,103,2012-12-16 00:30:00,Cleveland Cavaliers,102
+343,San Antonio Spurs,103,2012-12-16 00:30:00,Boston Celtics,88
+344,Utah Jazz,86,2012-12-16 00:00:00,Memphis Grizzlies,99
+345,Philadelphia 76ers,98,2012-12-16 23:00:00,Los Angeles Lakers,111
+346,Portland Trail Blazers,95,2012-12-16 23:00:00,New Orleans Hornets,94
+347,Sacramento Kings,97,2012-12-16 20:00:00,Denver Nuggets,122
+348,Toronto Raptors,103,2012-12-16 18:00:00,Houston Rockets,96
+349,Detroit Pistons,76,2012-12-18 00:30:00,Los Angeles Clippers,88
+350,Memphis Grizzlies,80,2012-12-18 00:00:00,Chicago Bulls,71
+351,New York Knicks,96,2012-12-18 00:30:00,Houston Rockets,109
+352,Oklahoma City Thunder,107,2012-12-18 00:00:00,San Antonio Spurs,93
+353,Orlando Magic,102,2012-12-18 00:00:00,Minnesota Timberwolves,93
+354,Phoenix Suns,101,2012-12-18 00:00:00,Sacramento Kings,90
+355,Brooklyn Nets,90,2012-12-19 00:30:00,Utah Jazz,92
+356,Chicago Bulls,100,2012-12-19 00:00:00,Boston Celtics,89
+357,Cleveland Cavaliers,99,2012-12-19 00:00:00,Toronto Raptors,113
+358,Dallas Mavericks,107,2012-12-19 00:30:00,Philadelphia 76ers,100
+359,Denver Nuggets,112,2012-12-19 00:00:00,San Antonio Spurs,106
+360,Golden State Warriors,103,2012-12-19 00:30:00,New Orleans Hornets,96
+361,Los Angeles Lakers,101,2012-12-19 00:30:00,Charlotte Bobcats,100
+362,Miami Heat,103,2012-12-19 00:30:00,Minnesota Timberwolves,92
+363,Milwaukee Bucks,98,2012-12-19 00:00:00,Indiana Pacers,93
+364,Washington Wizards,95,2012-12-19 00:00:00,Atlanta Hawks,100
+365,Atlanta Hawks,92,2012-12-20 00:30:00,Oklahoma City Thunder,100
+366,Boston Celtics,103,2012-12-20 00:30:00,Cleveland Cavaliers,91
+367,Houston Rockets,125,2012-12-20 00:00:00,Philadelphia 76ers,103
+368,Indiana Pacers,104,2012-12-20 00:00:00,Utah Jazz,84
+369,Los Angeles Clippers,93,2012-12-20 00:30:00,New Orleans Hornets,77
+370,Memphis Grizzlies,90,2012-12-20 01:30:00,Milwaukee Bucks,80
+371,New York Knicks,100,2012-12-20 00:00:00,Brooklyn Nets,86
+372,Orlando Magic,90,2012-12-20 00:00:00,Washington Wizards,83
+373,Phoenix Suns,121,2012-12-20 00:00:00,Charlotte Bobcats,104
+374,Sacramento Kings,131,2012-12-20 00:00:00,Golden State Warriors,127
+375,Toronto Raptors,97,2012-12-20 00:00:00,Detroit Pistons,91
+376,Dallas Mavericks,95,2012-12-21 01:30:00,Miami Heat,110
+377,Minnesota Timberwolves,99,2012-12-20 23:00:00,Oklahoma City Thunder,93
+378,Portland Trail Blazers,101,2012-12-21 00:00:00,Denver Nuggets,93
+379,Boston Celtics,94,2012-12-22 00:30:00,Milwaukee Bucks,99
+380,Cleveland Cavaliers,89,2012-12-22 00:30:00,Indiana Pacers,99
+381,Detroit Pistons,100,2012-12-22 00:30:00,Washington Wizards,68
+382,Golden State Warriors,115,2012-12-22 00:30:00,Charlotte Bobcats,100
+383,Los Angeles Clippers,97,2012-12-22 00:30:00,Sacramento Kings,85
+384,Memphis Grizzlies,92,2012-12-22 00:00:00,Dallas Mavericks,82
+385,New York Knicks,106,2012-12-22 00:30:00,Chicago Bulls,110
+386,Philadelphia 76ers,99,2012-12-22 00:00:00,Atlanta Hawks,80
+387,San Antonio Spurs,99,2012-12-22 00:30:00,New Orleans Hornets,94
+388,Toronto Raptors,93,2012-12-22 00:00:00,Orlando Magic,90
+389,Atlanta Hawks,92,2012-12-23 00:00:00,Chicago Bulls,75
+390,Denver Nuggets,110,2012-12-23 00:00:00,Charlotte Bobcats,88
+391,Golden State Warriors,115,2012-12-23 00:30:00,Los Angeles Lakers,118
+392,Houston Rockets,121,2012-12-23 00:00:00,Memphis Grizzlies,96
+393,Miami Heat,105,2012-12-23 00:30:00,Utah Jazz,89
+394,Milwaukee Bucks,82,2012-12-23 00:30:00,Cleveland Cavaliers,94
+395,New Orleans Hornets,75,2012-12-23 00:00:00,Indiana Pacers,81
+396,Portland Trail Blazers,96,2012-12-23 00:00:00,Phoenix Suns,93
+397,Washington Wizards,87,2012-12-23 00:00:00,Detroit Pistons,96
+398,Brooklyn Nets,95,2012-12-23 20:00:00,Philadelphia 76ers,92
+399,New York Knicks,94,2012-12-23 22:00:00,Minnesota Timberwolves,91
+400,Orlando Magic,93,2012-12-23 23:00:00,Utah Jazz,97
+401,Phoenix Suns,77,2012-12-23 23:00:00,Los Angeles Clippers,103
+402,Sacramento Kings,108,2012-12-23 23:00:00,Portland Trail Blazers,96
+403,San Antonio Spurs,129,2012-12-23 23:00:00,Dallas Mavericks,91
+404,Brooklyn Nets,76,2012-12-25 17:00:00,Boston Celtics,93
+405,Chicago Bulls,97,2012-12-26 00:00:00,Houston Rockets,120
+406,Los Angeles Clippers,112,2012-12-26 00:30:00,Denver Nuggets,100
+407,Los Angeles Lakers,100,2012-12-25 17:00:00,New York Knicks,94
+408,Miami Heat,103,2012-12-25 22:30:00,Oklahoma City Thunder,97
+409,Atlanta Hawks,126,2012-12-27 00:30:00,Detroit Pistons,119
+410,Charlotte Bobcats,92,2012-12-27 00:00:00,Miami Heat,105
+411,Denver Nuggets,126,2012-12-27 00:00:00,Los Angeles Lakers,114
+412,Memphis Grizzlies,89,2012-12-27 00:00:00,Philadelphia 76ers,99
+413,Milwaukee Bucks,108,2012-12-27 00:00:00,Brooklyn Nets,93
+414,Minnesota Timberwolves,84,2012-12-27 00:00:00,Houston Rockets,87
+415,Orlando Magic,94,2012-12-27 00:00:00,New Orleans Hornets,97
+416,Phoenix Suns,97,2012-12-27 00:00:00,New York Knicks,99
+417,Portland Trail Blazers,109,2012-12-27 00:00:00,Sacramento Kings,91
+418,San Antonio Spurs,100,2012-12-27 00:30:00,Toronto Raptors,80
+419,Utah Jazz,83,2012-12-27 00:00:00,Golden State Warriors,94
+420,Washington Wizards,84,2012-12-27 00:00:00,Cleveland Cavaliers,87
+421,Los Angeles Clippers,106,2012-12-28 00:30:00,Boston Celtics,77
+422,Oklahoma City Thunder,111,2012-12-28 00:00:00,Dallas Mavericks,105
+423,Brooklyn Nets,97,2012-12-29 00:30:00,Charlotte Bobcats,81
+424,Cleveland Cavaliers,94,2012-12-29 00:30:00,Atlanta Hawks,102
+425,Dallas Mavericks,85,2012-12-29 00:30:00,Denver Nuggets,106
+426,Detroit Pistons,109,2012-12-29 00:30:00,Miami Heat,99
+427,Golden State Warriors,96,2012-12-29 00:30:00,Philadelphia 76ers,89
+428,Indiana Pacers,97,2012-12-29 00:00:00,Phoenix Suns,91
+429,Los Angeles Lakers,104,2012-12-29 00:30:00,Portland Trail Blazers,87
+430,New Orleans Hornets,97,2012-12-29 00:00:00,Toronto Raptors,104
+431,Sacramento Kings,106,2012-12-29 00:00:00,New York Knicks,105
+432,San Antonio Spurs,122,2012-12-29 00:30:00,Houston Rockets,116
+433,Utah Jazz,114,2012-12-29 00:00:00,Los Angeles Clippers,116
+434,Washington Wizards,105,2012-12-29 00:00:00,Orlando Magic,97
+435,Atlanta Hawks,109,2012-12-30 00:00:00,Indiana Pacers,100
+436,Brooklyn Nets,103,2012-12-30 00:30:00,Cleveland Cavaliers,100
+437,Charlotte Bobcats,95,2012-12-30 00:00:00,New Orleans Hornets,98
+438,Chicago Bulls,87,2012-12-30 00:00:00,Washington Wizards,77
+439,Golden State Warriors,101,2012-12-30 00:30:00,Boston Celtics,83
+440,Houston Rockets,94,2012-12-30 00:00:00,Oklahoma City Thunder,124
+441,Memphis Grizzlies,81,2012-12-30 00:00:00,Denver Nuggets,72
+442,Milwaukee Bucks,104,2012-12-30 00:30:00,Miami Heat,85
+443,Minnesota Timberwolves,111,2012-12-30 00:00:00,Phoenix Suns,107
+444,Orlando Magic,88,2012-12-30 00:00:00,Toronto Raptors,123
+445,Portland Trail Blazers,89,2012-12-30 00:00:00,Philadelphia 76ers,85
+446,Dallas Mavericks,86,2012-12-30 23:30:00,San Antonio Spurs,111
+447,Detroit Pistons,96,2012-12-31 00:30:00,Milwaukee Bucks,94
+448,Los Angeles Clippers,107,2012-12-30 23:30:00,Utah Jazz,96
+449,Sacramento Kings,118,2012-12-30 23:00:00,Boston Celtics,96
+450,Chicago Bulls,81,2012-12-31 19:00:00,Charlotte Bobcats,91
+451,Houston Rockets,123,2012-12-31 23:00:00,Atlanta Hawks,104
+452,Indiana Pacers,88,2012-12-31 20:00:00,Memphis Grizzlies,83
+453,Oklahoma City Thunder,114,2013-01-01 00:00:00,Phoenix Suns,96
+454,Orlando Magic,110,2012-12-31 22:00:00,Miami Heat,112
+455,San Antonio Spurs,104,2012-12-31 23:00:00,Brooklyn Nets,73
+456,Denver Nuggets,92,2013-01-02 00:00:00,Los Angeles Clippers,78
+457,Detroit Pistons,103,2013-01-02 00:30:00,Sacramento Kings,97
+458,Los Angeles Lakers,99,2013-01-02 00:30:00,Philadelphia 76ers,103
+459,New Orleans Hornets,86,2013-01-02 00:00:00,Atlanta Hawks,95
+460,New York Knicks,100,2013-01-02 00:30:00,Portland Trail Blazers,105
+461,Washington Wizards,94,2013-01-01 23:00:00,Dallas Mavericks,103
+462,Boston Celtics,83,2013-01-03 00:30:00,Memphis Grizzlies,93
+463,Cleveland Cavaliers,94,2013-01-03 00:00:00,Sacramento Kings,97
+464,Golden State Warriors,115,2013-01-03 00:30:00,Los Angeles Clippers,94
+465,Houston Rockets,104,2013-01-03 00:00:00,New Orleans Hornets,92
+466,Indiana Pacers,89,2013-01-03 00:00:00,Washington Wizards,81
+467,Miami Heat,119,2013-01-03 00:30:00,Dallas Mavericks,109
+468,Milwaukee Bucks,110,2013-01-03 00:00:00,San Antonio Spurs,117
+469,Oklahoma City Thunder,93,2013-01-03 00:00:00,Brooklyn Nets,110
+470,Orlando Magic,94,2013-01-03 00:00:00,Chicago Bulls,96
+471,Phoenix Suns,95,2013-01-03 00:00:00,Philadelphia 76ers,89
+472,Toronto Raptors,102,2013-01-03 00:00:00,Portland Trail Blazers,79
+473,Utah Jazz,106,2013-01-03 00:00:00,Minnesota Timberwolves,84
+474,Denver Nuggets,97,2013-01-04 00:00:00,Minnesota Timberwolves,101
+475,New York Knicks,100,2013-01-04 00:30:00,San Antonio Spurs,83
+476,Boston Celtics,94,2013-01-05 01:00:00,Indiana Pacers,75
+477,Charlotte Bobcats,104,2013-01-05 00:00:00,Cleveland Cavaliers,106
+478,Detroit Pistons,85,2013-01-05 00:30:00,Atlanta Hawks,84
+479,Los Angeles Clippers,107,2013-01-05 00:30:00,Los Angeles Lakers,102
+480,Memphis Grizzlies,84,2013-01-05 00:00:00,Portland Trail Blazers,86
+481,Miami Heat,89,2013-01-05 01:00:00,Chicago Bulls,96
+482,Milwaukee Bucks,101,2013-01-05 00:30:00,Houston Rockets,115
+483,Oklahoma City Thunder,109,2013-01-05 00:00:00,Philadelphia 76ers,85
+484,Phoenix Suns,80,2013-01-05 00:00:00,Utah Jazz,87
+485,Toronto Raptors,96,2013-01-05 00:00:00,Sacramento Kings,105
+486,Washington Wizards,113,2013-01-05 00:00:00,Brooklyn Nets,115
+487,Atlanta Hawks,81,2013-01-06 00:00:00,Boston Celtics,89
+488,Brooklyn Nets,113,2013-01-06 00:30:00,Sacramento Kings,93
+489,Cleveland Cavaliers,104,2013-01-06 00:30:00,Houston Rockets,112
+490,Dallas Mavericks,96,2013-01-06 00:30:00,New Orleans Hornets,99
+491,Denver Nuggets,110,2013-01-06 00:00:00,Utah Jazz,91
+492,Indiana Pacers,95,2013-01-06 00:00:00,Milwaukee Bucks,80
+493,Los Angeles Clippers,115,2013-01-06 00:30:00,Golden State Warriors,89
+494,Minnesota Timberwolves,97,2013-01-06 00:00:00,Portland Trail Blazers,102
+495,Orlando Magic,106,2013-01-06 00:00:00,New York Knicks,114
+496,San Antonio Spurs,109,2013-01-06 00:30:00,Philadelphia 76ers,86
+497,Detroit Pistons,101,2013-01-07 00:30:00,Charlotte Bobcats,108
+498,Los Angeles Lakers,105,2013-01-06 23:30:00,Denver Nuggets,112
+499,Miami Heat,99,2013-01-06 23:00:00,Washington Wizards,71
+500,Phoenix Suns,81,2013-01-06 23:00:00,Memphis Grizzlies,92
+501,Toronto Raptors,92,2013-01-06 18:00:00,Oklahoma City Thunder,104
+502,Chicago Bulls,118,2013-01-08 00:00:00,Cleveland Cavaliers,92
+503,New Orleans Hornets,95,2013-01-08 00:00:00,San Antonio Spurs,88
+504,New York Knicks,96,2013-01-08 00:30:00,Boston Celtics,102
+505,Portland Trail Blazers,125,2013-01-08 00:00:00,Orlando Magic,119
+506,Sacramento Kings,81,2013-01-08 00:00:00,Memphis Grizzlies,113
+507,Utah Jazz,100,2013-01-08 00:00:00,Dallas Mavericks,94
+508,Washington Wizards,101,2013-01-08 00:00:00,Oklahoma City Thunder,99
+509,Houston Rockets,125,2013-01-09 00:00:00,Los Angeles Lakers,112
+510,Indiana Pacers,87,2013-01-09 00:00:00,Miami Heat,77
+511,Milwaukee Bucks,108,2013-01-09 00:00:00,Phoenix Suns,99
+512,Minnesota Timberwolves,108,2013-01-09 00:00:00,Atlanta Hawks,103
+513,Philadelphia 76ers,89,2013-01-09 00:00:00,Brooklyn Nets,109
+514,Boston Celtics,87,2013-01-10 00:30:00,Phoenix Suns,79
+515,Charlotte Bobcats,102,2013-01-10 00:00:00,Utah Jazz,112
+516,Chicago Bulls,96,2013-01-10 00:00:00,Milwaukee Bucks,104
+517,Cleveland Cavaliers,99,2013-01-10 00:00:00,Atlanta Hawks,83
+518,Denver Nuggets,108,2013-01-10 00:00:00,Orlando Magic,105
+519,Golden State Warriors,87,2013-01-10 00:30:00,Memphis Grizzlies,94
+520,Los Angeles Clippers,99,2013-01-10 00:30:00,Dallas Mavericks,93
+521,New Orleans Hornets,88,2013-01-10 00:00:00,Houston Rockets,79
+522,Oklahoma City Thunder,106,2013-01-10 00:00:00,Minnesota Timberwolves,84
+523,San Antonio Spurs,108,2013-01-10 00:00:00,Los Angeles Lakers,105
+524,Toronto Raptors,90,2013-01-10 00:00:00,Philadelphia 76ers,72
+525,Indiana Pacers,81,2013-01-11 01:00:00,New York Knicks,76
+526,Portland Trail Blazers,92,2013-01-11 00:30:00,Miami Heat,90
+527,Sacramento Kings,112,2013-01-11 00:00:00,Dallas Mavericks,117
+528,Atlanta Hawks,103,2013-01-12 00:30:00,Utah Jazz,95
+529,Boston Celtics,103,2013-01-12 00:30:00,Houston Rockets,91
+530,Brooklyn Nets,99,2013-01-12 00:30:00,Phoenix Suns,79
+531,Denver Nuggets,98,2013-01-12 00:00:00,Cleveland Cavaliers,91
+532,Golden State Warriors,103,2013-01-12 00:30:00,Portland Trail Blazers,97
+533,Los Angeles Lakers,101,2013-01-12 00:30:00,Oklahoma City Thunder,116
+534,Memphis Grizzlies,101,2013-01-12 00:00:00,San Antonio Spurs,98
+535,Milwaukee Bucks,87,2013-01-12 00:30:00,Detroit Pistons,103
+536,New Orleans Hornets,104,2013-01-12 00:00:00,Minnesota Timberwolves,92
+537,New York Knicks,101,2013-01-12 01:00:00,Chicago Bulls,108
+538,Toronto Raptors,99,2013-01-12 00:00:00,Charlotte Bobcats,78
+539,Chicago Bulls,81,2013-01-13 00:00:00,Phoenix Suns,97
+540,Dallas Mavericks,104,2013-01-13 01:00:00,Memphis Grizzlies,83
+541,Detroit Pistons,87,2013-01-13 00:30:00,Utah Jazz,90
+542,Indiana Pacers,96,2013-01-13 00:00:00,Charlotte Bobcats,88
+543,Los Angeles Clippers,101,2013-01-12 17:30:00,Orlando Magic,104
+544,Philadelphia 76ers,107,2013-01-13 00:30:00,Houston Rockets,100
+545,Sacramento Kings,99,2013-01-13 00:00:00,Miami Heat,128
+546,Washington Wizards,93,2013-01-13 00:00:00,Atlanta Hawks,83
+547,Brooklyn Nets,97,2013-01-13 23:00:00,Indiana Pacers,86
+548,Denver Nuggets,116,2013-01-13 23:00:00,Golden State Warriors,105
+549,Los Angeles Lakers,113,2013-01-13 23:30:00,Cleveland Cavaliers,93
+550,New York Knicks,100,2013-01-13 17:00:00,New Orleans Hornets,87
+551,Portland Trail Blazers,83,2013-01-13 23:00:00,Oklahoma City Thunder,87
+552,San Antonio Spurs,106,2013-01-13 23:00:00,Minnesota Timberwolves,88
+553,Toronto Raptors,96,2013-01-13 18:00:00,Milwaukee Bucks,107
+554,Boston Celtics,100,2013-01-15 00:30:00,Charlotte Bobcats,89
+555,Chicago Bulls,97,2013-01-15 00:00:00,Atlanta Hawks,58
+556,Dallas Mavericks,113,2013-01-15 00:30:00,Minnesota Timberwolves,98
+557,Memphis Grizzlies,73,2013-01-15 00:00:00,Los Angeles Clippers,99
+558,Phoenix Suns,90,2013-01-15 00:00:00,Oklahoma City Thunder,102
+559,Sacramento Kings,124,2013-01-15 00:00:00,Cleveland Cavaliers,118
+560,Utah Jazz,104,2013-01-15 00:00:00,Miami Heat,97
+561,Washington Wizards,120,2013-01-15 00:00:00,Orlando Magic,91
+562,Brooklyn Nets,113,2013-01-16 00:30:00,Toronto Raptors,106
+563,Charlotte Bobcats,76,2013-01-16 00:00:00,Indiana Pacers,103
+564,Denver Nuggets,115,2013-01-16 00:00:00,Portland Trail Blazers,111
+565,Houston Rockets,109,2013-01-16 00:00:00,Los Angeles Clippers,117
+566,Los Angeles Lakers,104,2013-01-16 00:30:00,Milwaukee Bucks,88
+567,Philadelphia 76ers,99,2013-01-16 00:00:00,New Orleans Hornets,111
+568,Atlanta Hawks,109,2013-01-17 00:30:00,Brooklyn Nets,95
+569,Boston Celtics,78,2013-01-17 01:00:00,New Orleans Hornets,90
+570,Dallas Mavericks,105,2013-01-17 00:00:00,Houston Rockets,100
+571,Golden State Warriors,75,2013-01-17 00:30:00,Miami Heat,92
+572,Oklahoma City Thunder,117,2013-01-17 00:00:00,Denver Nuggets,97
+573,Orlando Magic,97,2013-01-17 00:00:00,Indiana Pacers,86
+574,Portland Trail Blazers,88,2013-01-17 00:00:00,Cleveland Cavaliers,93
+575,Sacramento Kings,95,2013-01-17 00:00:00,Washington Wizards,94
+576,San Antonio Spurs,103,2013-01-17 00:30:00,Memphis Grizzlies,82
+577,Toronto Raptors,105,2013-01-17 00:00:00,Chicago Bulls,107
+578,Detroit Pistons,87,2013-01-18 01:00:00,New York Knicks,102
+579,Los Angeles Lakers,90,2013-01-18 00:30:00,Miami Heat,99
+580,Minnesota Timberwolves,77,2013-01-18 00:00:00,Los Angeles Clippers,90
+581,Phoenix Suns,94,2013-01-18 00:00:00,Milwaukee Bucks,98
+582,Boston Celtics,99,2013-01-19 00:00:00,Chicago Bulls,100
+583,Brooklyn Nets,94,2013-01-19 00:30:00,Atlanta Hawks,89
+584,Dallas Mavericks,114,2013-01-19 01:30:00,Oklahoma City Thunder,117
+585,Denver Nuggets,108,2013-01-19 00:00:00,Washington Wizards,112
+586,Indiana Pacers,105,2013-01-19 00:00:00,Houston Rockets,95
+587,Memphis Grizzlies,85,2013-01-19 00:00:00,Sacramento Kings,69
+588,Orlando Magic,100,2013-01-19 00:00:00,Charlotte Bobcats,106
+589,Philadelphia 76ers,108,2013-01-19 00:00:00,Toronto Raptors,101
+590,San Antonio Spurs,95,2013-01-19 00:30:00,Golden State Warriors,88
+591,Atlanta Hawks,93,2013-01-20 00:00:00,San Antonio Spurs,98
+592,Charlotte Bobcats,93,2013-01-20 00:00:00,Sacramento Kings,97
+593,Chicago Bulls,82,2013-01-20 00:00:00,Memphis Grizzlies,85
+594,Los Angeles Clippers,94,2013-01-20 00:30:00,Washington Wizards,87
+595,Minnesota Timberwolves,92,2013-01-20 00:00:00,Houston Rockets,79
+596,New Orleans Hornets,112,2013-01-20 00:00:00,Golden State Warriors,116
+597,Portland Trail Blazers,104,2013-01-20 00:00:00,Milwaukee Bucks,110
+598,Utah Jazz,109,2013-01-20 00:00:00,Cleveland Cavaliers,98
+599,Denver Nuggets,121,2013-01-20 23:00:00,Oklahoma City Thunder,118
+600,Detroit Pistons,103,2013-01-21 00:30:00,Boston Celtics,88
+601,Orlando Magic,105,2013-01-20 23:00:00,Dallas Mavericks,111
+602,Toronto Raptors,108,2013-01-20 18:00:00,Los Angeles Lakers,103
+603,Atlanta Hawks,104,2013-01-21 19:00:00,Minnesota Timberwolves,96
+604,Charlotte Bobcats,94,2013-01-21 19:00:00,Houston Rockets,100
+605,Chicago Bulls,95,2013-01-22 01:30:00,Los Angeles Lakers,83
+606,Golden State Warriors,106,2013-01-21 18:00:00,Los Angeles Clippers,99
+607,Memphis Grizzlies,81,2013-01-21 17:00:00,Indiana Pacers,82
+608,New Orleans Hornets,114,2013-01-21 17:00:00,Sacramento Kings,105
+609,New York Knicks,85,2013-01-21 20:30:00,Brooklyn Nets,88
+610,Philadelphia 76ers,85,2013-01-22 00:00:00,San Antonio Spurs,90
+611,Portland Trail Blazers,95,2013-01-22 00:00:00,Washington Wizards,98
+612,Cleveland Cavaliers,95,2013-01-23 00:00:00,Boston Celtics,90
+613,Detroit Pistons,105,2013-01-23 00:30:00,Orlando Magic,90
+614,Los Angeles Clippers,97,2013-01-23 00:30:00,Oklahoma City Thunder,109
+615,Milwaukee Bucks,110,2013-01-23 00:00:00,Philadelphia 76ers,102
+616,Charlotte Bobcats,92,2013-01-24 00:00:00,Atlanta Hawks,104
+617,Chicago Bulls,85,2013-01-24 00:00:00,Detroit Pistons,82
+618,Golden State Warriors,104,2013-01-24 00:30:00,Oklahoma City Thunder,99
+619,Houston Rockets,95,2013-01-24 00:00:00,Denver Nuggets,105
+620,Memphis Grizzlies,106,2013-01-24 00:00:00,Los Angeles Lakers,93
+621,Miami Heat,123,2013-01-24 00:30:00,Toronto Raptors,116
+622,Minnesota Timberwolves,83,2013-01-24 00:00:00,Brooklyn Nets,91
+623,Portland Trail Blazers,100,2013-01-24 00:00:00,Indiana Pacers,80
+624,Sacramento Kings,96,2013-01-24 00:00:00,Phoenix Suns,106
+625,San Antonio Spurs,106,2013-01-24 00:30:00,New Orleans Hornets,102
+626,Utah Jazz,92,2013-01-24 00:00:00,Washington Wizards,88
+627,Boston Celtics,86,2013-01-25 01:00:00,New York Knicks,89
+628,Orlando Magic,95,2013-01-25 00:00:00,Toronto Raptors,97
+629,Phoenix Suns,93,2013-01-25 01:30:00,Los Angeles Clippers,88
+630,Atlanta Hawks,123,2013-01-26 00:30:00,Boston Celtics,111
+631,Chicago Bulls,103,2013-01-26 00:00:00,Golden State Warriors,87
+632,Cleveland Cavaliers,113,2013-01-26 00:30:00,Milwaukee Bucks,108
+633,Dallas Mavericks,107,2013-01-26 00:00:00,San Antonio Spurs,113
+634,Los Angeles Lakers,102,2013-01-26 00:30:00,Utah Jazz,84
+635,Memphis Grizzlies,101,2013-01-26 00:00:00,Brooklyn Nets,77
+636,Miami Heat,110,2013-01-26 00:30:00,Detroit Pistons,88
+637,New Orleans Hornets,82,2013-01-26 00:00:00,Houston Rockets,100
+638,Sacramento Kings,95,2013-01-26 00:00:00,Oklahoma City Thunder,105
+639,Washington Wizards,114,2013-01-26 00:00:00,Minnesota Timberwolves,101
+640,Charlotte Bobcats,102,2013-01-27 00:30:00,Minnesota Timberwolves,101
+641,Denver Nuggets,121,2013-01-27 00:00:00,Sacramento Kings,93
+642,Houston Rockets,119,2013-01-27 00:00:00,Brooklyn Nets,106
+643,Milwaukee Bucks,109,2013-01-27 00:30:00,Golden State Warriors,102
+644,Philadelphia 76ers,97,2013-01-27 00:00:00,New York Knicks,80
+645,Portland Trail Blazers,101,2013-01-27 00:00:00,Los Angeles Clippers,100
+646,San Antonio Spurs,108,2013-01-27 00:30:00,Phoenix Suns,99
+647,Toronto Raptors,98,2013-01-27 00:00:00,Cleveland Cavaliers,99
+648,Utah Jazz,114,2013-01-27 00:30:00,Indiana Pacers,110
+649,Washington Wizards,86,2013-01-27 00:00:00,Chicago Bulls,73
+650,Boston Celtics,100,2013-01-27 18:00:00,Miami Heat,98
+651,Dallas Mavericks,110,2013-01-27 23:30:00,Phoenix Suns,95
+652,Los Angeles Clippers,96,2013-01-27 23:30:00,Portland Trail Blazers,83
+653,Los Angeles Lakers,105,2013-01-27 17:30:00,Oklahoma City Thunder,96
+654,Memphis Grizzlies,83,2013-01-27 22:00:00,New Orleans Hornets,91
+655,New York Knicks,106,2013-01-27 23:30:00,Atlanta Hawks,104
+656,Orlando Magic,102,2013-01-27 23:00:00,Detroit Pistons,104
+657,Brooklyn Nets,97,2013-01-29 00:30:00,Orlando Magic,77
+658,Chicago Bulls,93,2013-01-29 00:00:00,Charlotte Bobcats,85
+659,Denver Nuggets,102,2013-01-29 00:00:00,Indiana Pacers,101
+660,Philadelphia 76ers,100,2013-01-29 00:00:00,Memphis Grizzlies,103
+661,Toronto Raptors,102,2013-01-29 00:00:00,Golden State Warriors,114
+662,Utah Jazz,80,2013-01-29 00:00:00,Houston Rockets,125
+663,Washington Wizards,94,2013-01-29 00:00:00,Sacramento Kings,96
+664,Cleveland Cavaliers,95,2013-01-30 00:00:00,Golden State Warriors,108
+665,Detroit Pistons,90,2013-01-30 00:30:00,Milwaukee Bucks,117
+666,Los Angeles Lakers,111,2013-01-30 00:30:00,New Orleans Hornets,106
+667,Portland Trail Blazers,106,2013-01-30 00:00:00,Dallas Mavericks,104
+668,Atlanta Hawks,93,2013-01-31 00:30:00,Toronto Raptors,92
+669,Boston Celtics,99,2013-01-31 00:30:00,Sacramento Kings,81
+670,Brooklyn Nets,85,2013-01-31 01:00:00,Miami Heat,105
+671,Denver Nuggets,118,2013-01-31 00:00:00,Houston Rockets,110
+672,Indiana Pacers,98,2013-01-31 00:00:00,Detroit Pistons,79
+673,Milwaukee Bucks,88,2013-01-31 00:00:00,Chicago Bulls,104
+674,Minnesota Timberwolves,90,2013-01-31 00:00:00,Los Angeles Clippers,96
+675,New York Knicks,113,2013-01-31 00:30:00,Orlando Magic,97
+676,Philadelphia 76ers,92,2013-01-31 00:00:00,Washington Wizards,84
+677,Phoenix Suns,92,2013-01-31 01:30:00,Los Angeles Lakers,86
+678,San Antonio Spurs,102,2013-01-31 00:30:00,Charlotte Bobcats,78
+679,Utah Jazz,104,2013-01-31 00:00:00,New Orleans Hornets,99
+680,Golden State Warriors,100,2013-02-01 00:30:00,Dallas Mavericks,97
+681,Oklahoma City Thunder,106,2013-02-01 00:00:00,Memphis Grizzlies,89
+682,Boston Celtics,97,2013-02-02 00:30:00,Orlando Magic,84
+683,Brooklyn Nets,93,2013-02-02 00:30:00,Chicago Bulls,89
+684,Denver Nuggets,113,2013-02-02 00:00:00,New Orleans Hornets,98
+685,Detroit Pistons,117,2013-02-02 00:30:00,Cleveland Cavaliers,99
+686,Indiana Pacers,102,2013-02-02 00:00:00,Miami Heat,89
+687,Memphis Grizzlies,85,2013-02-02 00:00:00,Washington Wizards,76
+688,Minnesota Timberwolves,100,2013-02-02 01:30:00,Los Angeles Lakers,111
+689,New York Knicks,96,2013-02-02 00:30:00,Milwaukee Bucks,86
+690,Philadelphia 76ers,89,2013-02-02 00:30:00,Sacramento Kings,80
+691,Phoenix Suns,99,2013-02-02 00:00:00,Dallas Mavericks,109
+692,Toronto Raptors,98,2013-02-02 00:00:00,Los Angeles Clippers,73
+693,Utah Jazz,86,2013-02-02 00:00:00,Portland Trail Blazers,77
+694,Atlanta Hawks,76,2013-02-03 00:00:00,Chicago Bulls,93
+695,Cleveland Cavaliers,115,2013-02-03 00:30:00,Oklahoma City Thunder,110
+696,Golden State Warriors,113,2013-02-03 00:30:00,Phoenix Suns,93
+697,Houston Rockets,109,2013-02-03 00:00:00,Charlotte Bobcats,95
+698,Milwaukee Bucks,107,2013-02-03 00:30:00,Orlando Magic,98
+699,Minnesota Timberwolves,115,2013-02-03 00:00:00,New Orleans Hornets,86
+700,New York Knicks,120,2013-02-03 00:30:00,Sacramento Kings,81
+701,Portland Trail Blazers,105,2013-02-03 00:00:00,Utah Jazz,99
+702,San Antonio Spurs,96,2013-02-03 00:30:00,Washington Wizards,86
+703,Boston Celtics,106,2013-02-03 18:00:00,Los Angeles Clippers,104
+704,Detroit Pistons,97,2013-02-03 18:00:00,Los Angeles Lakers,98
+705,Toronto Raptors,85,2013-02-03 19:00:00,Miami Heat,100
+706,Indiana Pacers,111,2013-02-05 00:00:00,Chicago Bulls,101
+707,Miami Heat,99,2013-02-05 00:30:00,Charlotte Bobcats,94
+708,Minnesota Timberwolves,98,2013-02-05 00:00:00,Portland Trail Blazers,100
+709,New York Knicks,99,2013-02-05 00:30:00,Detroit Pistons,85
+710,Oklahoma City Thunder,112,2013-02-05 00:00:00,Dallas Mavericks,91
+711,Philadelphia 76ers,78,2013-02-05 00:00:00,Orlando Magic,61
+712,Utah Jazz,98,2013-02-05 00:00:00,Sacramento Kings,91
+713,Washington Wizards,98,2013-02-05 00:00:00,Los Angeles Clippers,90
+714,Brooklyn Nets,83,2013-02-06 00:30:00,Los Angeles Lakers,92
+715,Denver Nuggets,112,2013-02-06 00:00:00,Milwaukee Bucks,104
+716,Houston Rockets,140,2013-02-06 00:00:00,Golden State Warriors,109
+717,Indiana Pacers,114,2013-02-06 00:00:00,Atlanta Hawks,103
+718,Memphis Grizzlies,90,2013-02-06 00:00:00,Phoenix Suns,96
+719,Atlanta Hawks,103,2013-02-07 00:30:00,Memphis Grizzlies,92
+720,Cleveland Cavaliers,122,2013-02-07 00:00:00,Charlotte Bobcats,95
+721,Dallas Mavericks,105,2013-02-07 00:30:00,Portland Trail Blazers,99
+722,Detroit Pistons,90,2013-02-07 00:30:00,Brooklyn Nets,93
+723,Miami Heat,114,2013-02-07 00:30:00,Houston Rockets,108
+724,Minnesota Timberwolves,94,2013-02-07 01:00:00,San Antonio Spurs,104
+725,New Orleans Hornets,93,2013-02-07 00:00:00,Phoenix Suns,84
+726,Oklahoma City Thunder,119,2013-02-07 00:00:00,Golden State Warriors,98
+727,Orlando Magic,76,2013-02-07 00:00:00,Los Angeles Clippers,86
+728,Philadelphia 76ers,69,2013-02-07 00:00:00,Indiana Pacers,88
+729,Toronto Raptors,95,2013-02-07 00:00:00,Boston Celtics,99
+730,Utah Jazz,100,2013-02-07 00:00:00,Milwaukee Bucks,86
+731,Washington Wizards,106,2013-02-07 00:00:00,New York Knicks,96
+732,Boston Celtics,116,2013-02-08 01:00:00,Los Angeles Lakers,95
+733,Denver Nuggets,128,2013-02-08 01:30:00,Chicago Bulls,96
+734,Atlanta Hawks,100,2013-02-09 00:30:00,New Orleans Hornets,111
+735,Charlotte Bobcats,93,2013-02-09 00:00:00,Los Angeles Lakers,100
+736,Cleveland Cavaliers,119,2013-02-09 00:30:00,Orlando Magic,108
+737,Detroit Pistons,119,2013-02-09 00:30:00,San Antonio Spurs,109
+738,Houston Rockets,118,2013-02-09 00:00:00,Portland Trail Blazers,103
+739,Indiana Pacers,98,2013-02-09 00:00:00,Toronto Raptors,100
+740,Memphis Grizzlies,99,2013-02-09 00:00:00,Golden State Warriors,93
+741,Miami Heat,111,2013-02-09 01:00:00,Los Angeles Clippers,89
+742,Minnesota Timberwolves,94,2013-02-09 00:00:00,New York Knicks,100
+743,Oklahoma City Thunder,127,2013-02-09 00:00:00,Phoenix Suns,96
+744,Utah Jazz,89,2013-02-09 01:30:00,Chicago Bulls,93
+745,Washington Wizards,89,2013-02-09 00:00:00,Brooklyn Nets,74
+746,Cleveland Cavaliers,103,2013-02-10 00:30:00,Denver Nuggets,111
+747,Dallas Mavericks,116,2013-02-10 00:30:00,Golden State Warriors,91
+748,Milwaukee Bucks,100,2013-02-10 00:30:00,Detroit Pistons,105
+749,Philadelphia 76ers,87,2013-02-10 01:00:00,Charlotte Bobcats,76
+750,Sacramento Kings,120,2013-02-10 00:00:00,Utah Jazz,109
+751,Boston Celtics,118,2013-02-10 23:00:00,Denver Nuggets,114
+752,Brooklyn Nets,86,2013-02-11 01:00:00,San Antonio Spurs,111
+753,Memphis Grizzlies,105,2013-02-10 22:00:00,Minnesota Timberwolves,88
+754,Miami Heat,107,2013-02-10 20:30:00,Los Angeles Lakers,97
+755,New York Knicks,88,2013-02-10 18:00:00,Los Angeles Clippers,102
+756,Orlando Magic,110,2013-02-10 23:00:00,Portland Trail Blazers,104
+757,Phoenix Suns,69,2013-02-10 23:00:00,Oklahoma City Thunder,97
+758,Sacramento Kings,117,2013-02-10 23:00:00,Houston Rockets,111
+759,Toronto Raptors,102,2013-02-10 23:00:00,New Orleans Hornets,89
+760,Charlotte Bobcats,94,2013-02-12 00:00:00,Boston Celtics,91
+761,Chicago Bulls,89,2013-02-12 00:00:00,San Antonio Spurs,103
+762,Cleveland Cavaliers,92,2013-02-12 00:00:00,Minnesota Timberwolves,100
+763,Dallas Mavericks,101,2013-02-12 00:30:00,Atlanta Hawks,105
+764,Detroit Pistons,86,2013-02-12 00:30:00,New Orleans Hornets,105
+765,Indiana Pacers,84,2013-02-12 00:00:00,Brooklyn Nets,89
+766,Milwaukee Bucks,90,2013-02-12 00:00:00,Washington Wizards,102
+767,Philadelphia 76ers,90,2013-02-12 00:00:00,Los Angeles Clippers,107
+768,Golden State Warriors,107,2013-02-13 00:30:00,Houston Rockets,116
+769,Los Angeles Lakers,91,2013-02-13 00:30:00,Phoenix Suns,85
+770,Memphis Grizzlies,108,2013-02-13 00:00:00,Sacramento Kings,101
+771,Miami Heat,117,2013-02-13 00:30:00,Portland Trail Blazers,104
+772,Toronto Raptors,109,2013-02-13 00:00:00,Denver Nuggets,108
+773,Utah Jazz,109,2013-02-13 00:00:00,Oklahoma City Thunder,94
+774,Boston Celtics,71,2013-02-14 00:30:00,Chicago Bulls,69
+775,Brooklyn Nets,119,2013-02-14 00:30:00,Denver Nuggets,108
+776,Cleveland Cavaliers,95,2013-02-14 00:00:00,San Antonio Spurs,96
+777,Dallas Mavericks,123,2013-02-14 00:30:00,Sacramento Kings,100
+778,Detroit Pistons,96,2013-02-14 00:30:00,Washington Wizards,85
+779,Indiana Pacers,101,2013-02-14 00:00:00,Charlotte Bobcats,77
+780,Los Angeles Clippers,106,2013-02-14 00:30:00,Houston Rockets,96
+781,Milwaukee Bucks,94,2013-02-14 00:00:00,Philadelphia 76ers,92
+782,Minnesota Timberwolves,93,2013-02-14 00:00:00,Utah Jazz,97
+783,New Orleans Hornets,99,2013-02-14 00:00:00,Portland Trail Blazers,63
+784,New York Knicks,88,2013-02-14 00:30:00,Toronto Raptors,92
+785,Orlando Magic,76,2013-02-14 00:00:00,Atlanta Hawks,108
+786,Los Angeles Lakers,101,2013-02-15 00:30:00,Los Angeles Clippers,125
+787,Oklahoma City Thunder,100,2013-02-15 00:00:00,Miami Heat,110
+788,Brooklyn Nets,113,2013-02-20 00:30:00,Milwaukee Bucks,111
+789,Denver Nuggets,97,2013-02-20 00:00:00,Boston Celtics,90
+790,Detroit Pistons,91,2013-02-20 00:30:00,Memphis Grizzlies,105
+791,New Orleans Hornets,87,2013-02-20 00:00:00,Chicago Bulls,96
+792,Orlando Magic,92,2013-02-20 00:00:00,Charlotte Bobcats,105
+793,Portland Trail Blazers,98,2013-02-20 00:00:00,Phoenix Suns,102
+794,Sacramento Kings,102,2013-02-20 00:00:00,San Antonio Spurs,108
+795,Utah Jazz,115,2013-02-20 00:00:00,Golden State Warriors,101
+796,Washington Wizards,88,2013-02-20 00:00:00,Toronto Raptors,96
+797,Atlanta Hawks,90,2013-02-21 01:00:00,Miami Heat,103
+798,Charlotte Bobcats,99,2013-02-21 00:00:00,Detroit Pistons,105
+799,Cleveland Cavaliers,105,2013-02-21 01:00:00,New Orleans Hornets,100
+800,Dallas Mavericks,111,2013-02-21 00:30:00,Orlando Magic,96
+801,Golden State Warriors,108,2013-02-21 00:30:00,Phoenix Suns,98
+802,Houston Rockets,122,2013-02-21 00:00:00,Oklahoma City Thunder,119
+803,Indiana Pacers,125,2013-02-21 00:00:00,New York Knicks,91
+804,Los Angeles Lakers,113,2013-02-21 00:30:00,Boston Celtics,99
+805,Milwaukee Bucks,94,2013-02-21 00:00:00,Brooklyn Nets,97
+806,Minnesota Timberwolves,94,2013-02-21 00:00:00,Philadelphia 76ers,87
+807,Toronto Raptors,82,2013-02-21 00:00:00,Memphis Grizzlies,88
+808,Chicago Bulls,67,2013-02-22 00:00:00,Miami Heat,86
+809,Los Angeles Clippers,90,2013-02-22 00:30:00,San Antonio Spurs,116
+810,Atlanta Hawks,122,2013-02-23 00:30:00,Sacramento Kings,108
+811,Brooklyn Nets,96,2013-02-23 00:30:00,Houston Rockets,106
+812,Charlotte Bobcats,75,2013-02-23 00:00:00,Chicago Bulls,105
+813,Golden State Warriors,107,2013-02-23 00:30:00,San Antonio Spurs,101
+814,Indiana Pacers,114,2013-02-23 00:00:00,Detroit Pistons,82
+815,Los Angeles Lakers,111,2013-02-23 00:30:00,Portland Trail Blazers,107
+816,Memphis Grizzlies,88,2013-02-23 00:00:00,Orlando Magic,82
+817,New Orleans Hornets,100,2013-02-23 00:00:00,Dallas Mavericks,104
+818,Oklahoma City Thunder,127,2013-02-23 00:00:00,Minnesota Timberwolves,111
+819,Phoenix Suns,88,2013-02-23 00:00:00,Boston Celtics,113
+820,Toronto Raptors,100,2013-02-23 00:00:00,New York Knicks,98
+821,Washington Wizards,119,2013-02-23 00:00:00,Denver Nuggets,113
+822,Charlotte Bobcats,99,2013-02-24 00:00:00,Denver Nuggets,113
+823,Detroit Pistons,72,2013-02-24 00:30:00,Indiana Pacers,90
+824,Los Angeles Clippers,107,2013-02-24 00:30:00,Utah Jazz,94
+825,Milwaukee Bucks,102,2013-02-24 00:30:00,Atlanta Hawks,103
+826,Orlando Magic,94,2013-02-24 00:00:00,Cleveland Cavaliers,118
+827,Philadelphia 76ers,90,2013-02-24 00:30:00,Miami Heat,114
+828,Washington Wizards,105,2013-02-24 00:00:00,Houston Rockets,103
+829,Brooklyn Nets,72,2013-02-25 00:00:00,Memphis Grizzlies,76
+830,Dallas Mavericks,99,2013-02-24 17:00:00,Los Angeles Lakers,103
+831,Miami Heat,109,2013-02-24 23:00:00,Cleveland Cavaliers,105
+832,Minnesota Timberwolves,99,2013-02-24 19:30:00,Golden State Warriors,100
+833,New Orleans Hornets,110,2013-02-24 22:00:00,Sacramento Kings,95
+834,New York Knicks,99,2013-02-25 00:00:00,Philadelphia 76ers,93
+835,Oklahoma City Thunder,102,2013-02-25 01:30:00,Chicago Bulls,72
+836,Phoenix Suns,87,2013-02-24 23:00:00,San Antonio Spurs,97
+837,Portland Trail Blazers,92,2013-02-24 23:00:00,Boston Celtics,86
+838,Denver Nuggets,119,2013-02-26 00:00:00,Los Angeles Lakers,108
+839,Detroit Pistons,103,2013-02-26 00:30:00,Atlanta Hawks,114
+840,Toronto Raptors,84,2013-02-26 00:00:00,Washington Wizards,90
+841,Utah Jazz,107,2013-02-26 00:00:00,Boston Celtics,110
+842,Chicago Bulls,98,2013-02-27 00:00:00,Cleveland Cavaliers,101
+843,Dallas Mavericks,90,2013-02-27 00:30:00,Milwaukee Bucks,95
+844,Indiana Pacers,108,2013-02-27 00:00:00,Golden State Warriors,97
+845,Los Angeles Clippers,106,2013-02-27 00:30:00,Charlotte Bobcats,84
+846,Miami Heat,141,2013-02-27 00:30:00,Sacramento Kings,129
+847,New Orleans Hornets,97,2013-02-27 00:00:00,Brooklyn Nets,101
+848,Philadelphia 76ers,84,2013-02-27 00:00:00,Orlando Magic,98
+849,Phoenix Suns,84,2013-02-27 00:00:00,Minnesota Timberwolves,83
+850,Cleveland Cavaliers,103,2013-02-28 00:00:00,Toronto Raptors,92
+851,Houston Rockets,107,2013-02-28 00:00:00,Milwaukee Bucks,110
+852,Memphis Grizzlies,90,2013-02-28 00:00:00,Dallas Mavericks,84
+853,New York Knicks,109,2013-02-28 01:00:00,Golden State Warriors,105
+854,Oklahoma City Thunder,119,2013-02-28 00:00:00,New Orleans Hornets,74
+855,Orlando Magic,101,2013-02-28 00:00:00,Sacramento Kings,125
+856,Portland Trail Blazers,109,2013-02-28 00:30:00,Denver Nuggets,111
+857,San Antonio Spurs,101,2013-02-28 00:30:00,Phoenix Suns,105
+858,Utah Jazz,91,2013-02-28 00:00:00,Atlanta Hawks,102
+859,Washington Wizards,95,2013-02-28 00:00:00,Detroit Pistons,96
+860,Chicago Bulls,93,2013-03-01 00:00:00,Philadelphia 76ers,82
+861,Indiana Pacers,91,2013-03-01 00:00:00,Los Angeles Clippers,99
+862,Los Angeles Lakers,116,2013-03-01 00:30:00,Minnesota Timberwolves,94
+863,Boston Celtics,94,2013-03-02 00:30:00,Golden State Warriors,86
+864,Brooklyn Nets,90,2013-03-02 01:00:00,Dallas Mavericks,98
+865,Cleveland Cavaliers,89,2013-03-02 00:30:00,Los Angeles Clippers,105
+866,Denver Nuggets,105,2013-03-02 01:30:00,Oklahoma City Thunder,103
+867,Miami Heat,98,2013-03-02 01:00:00,Memphis Grizzlies,91
+868,New Orleans Hornets,100,2013-03-02 00:00:00,Detroit Pistons,95
+869,Orlando Magic,110,2013-03-02 00:00:00,Houston Rockets,118
+870,Phoenix Suns,92,2013-03-02 00:00:00,Atlanta Hawks,87
+871,San Antonio Spurs,130,2013-03-02 00:30:00,Sacramento Kings,102
+872,Toronto Raptors,81,2013-03-02 00:00:00,Indiana Pacers,93
+873,Utah Jazz,98,2013-03-02 00:00:00,Charlotte Bobcats,68
+874,Washington Wizards,88,2013-03-02 00:00:00,New York Knicks,96
+875,Chicago Bulls,96,2013-03-03 00:00:00,Brooklyn Nets,85
+876,Milwaukee Bucks,122,2013-03-03 00:30:00,Toronto Raptors,114
+877,Philadelphia 76ers,104,2013-03-03 00:00:00,Golden State Warriors,97
+878,Portland Trail Blazers,109,2013-03-03 00:00:00,Minnesota Timberwolves,94
+879,Houston Rockets,136,2013-03-03 23:00:00,Dallas Mavericks,103
+880,Indiana Pacers,97,2013-03-04 01:00:00,Chicago Bulls,92
+881,Los Angeles Clippers,104,2013-03-03 17:30:00,Oklahoma City Thunder,108
+882,Los Angeles Lakers,99,2013-03-03 23:30:00,Atlanta Hawks,98
+883,New York Knicks,93,2013-03-03 18:00:00,Miami Heat,99
+884,Orlando Magic,82,2013-03-03 23:00:00,Memphis Grizzlies,108
+885,Sacramento Kings,119,2013-03-03 20:00:00,Charlotte Bobcats,83
+886,San Antonio Spurs,114,2013-03-03 23:00:00,Detroit Pistons,75
+887,Washington Wizards,90,2013-03-03 23:00:00,Philadelphia 76ers,87
+888,Cleveland Cavaliers,97,2013-03-05 00:00:00,New York Knicks,102
+889,Denver Nuggets,104,2013-03-05 00:00:00,Atlanta Hawks,88
+890,Golden State Warriors,125,2013-03-05 00:30:00,Toronto Raptors,118
+891,Milwaukee Bucks,109,2013-03-05 00:00:00,Utah Jazz,108
+892,Minnesota Timberwolves,81,2013-03-05 00:00:00,Miami Heat,97
+893,New Orleans Hornets,102,2013-03-05 00:00:00,Orlando Magic,105
+894,Portland Trail Blazers,122,2013-03-05 00:00:00,Charlotte Bobcats,105
+895,Oklahoma City Thunder,122,2013-03-06 01:30:00,Los Angeles Lakers,105
+896,Philadelphia 76ers,101,2013-03-06 00:00:00,Boston Celtics,109
+897,Sacramento Kings,113,2013-03-06 00:00:00,Denver Nuggets,120
+898,Atlanta Hawks,107,2013-03-07 00:30:00,Philadelphia 76ers,96
+899,Charlotte Bobcats,78,2013-03-07 00:00:00,Brooklyn Nets,99
+900,Cleveland Cavaliers,104,2013-03-07 00:00:00,Utah Jazz,101
+901,Dallas Mavericks,112,2013-03-07 00:30:00,Houston Rockets,108
+902,Detroit Pistons,77,2013-03-07 00:30:00,New York Knicks,87
+903,Golden State Warriors,87,2013-03-07 00:30:00,Sacramento Kings,83
+904,Indiana Pacers,81,2013-03-07 00:00:00,Boston Celtics,83
+905,Los Angeles Clippers,117,2013-03-07 00:30:00,Milwaukee Bucks,101
+906,Memphis Grizzlies,91,2013-03-07 00:00:00,Portland Trail Blazers,85
+907,Miami Heat,97,2013-03-07 00:30:00,Orlando Magic,96
+908,Minnesota Timberwolves,87,2013-03-07 00:00:00,Washington Wizards,82
+909,New Orleans Hornets,102,2013-03-07 00:00:00,Los Angeles Lakers,108
+910,Phoenix Suns,71,2013-03-07 00:00:00,Toronto Raptors,98
+911,San Antonio Spurs,101,2013-03-07 01:00:00,Chicago Bulls,83
+912,Denver Nuggets,107,2013-03-08 01:30:00,Los Angeles Clippers,92
+913,New York Knicks,94,2013-03-08 01:00:00,Oklahoma City Thunder,95
+914,Boston Celtics,107,2013-03-09 01:00:00,Atlanta Hawks,102
+915,Brooklyn Nets,95,2013-03-09 00:30:00,Washington Wizards,78
+916,Charlotte Bobcats,94,2013-03-09 00:00:00,Oklahoma City Thunder,116
+917,Chicago Bulls,89,2013-03-09 00:00:00,Utah Jazz,88
+918,Cleveland Cavaliers,92,2013-03-09 00:30:00,Memphis Grizzlies,103
+919,Detroit Pistons,99,2013-03-09 00:30:00,Dallas Mavericks,102
+920,Golden State Warriors,88,2013-03-09 00:30:00,Houston Rockets,94
+921,Los Angeles Lakers,118,2013-03-09 00:30:00,Toronto Raptors,116
+922,Miami Heat,102,2013-03-09 01:00:00,Philadelphia 76ers,93
+923,Orlando Magic,86,2013-03-09 00:00:00,Indiana Pacers,115
+924,Sacramento Kings,121,2013-03-09 00:00:00,Phoenix Suns,112
+925,San Antonio Spurs,106,2013-03-09 00:30:00,Portland Trail Blazers,136
+926,Atlanta Hawks,80,2013-03-10 00:00:00,Brooklyn Nets,93
+927,Denver Nuggets,111,2013-03-10 00:00:00,Minnesota Timberwolves,88
+928,Golden State Warriors,93,2013-03-10 00:30:00,Milwaukee Bucks,103
+929,Memphis Grizzlies,96,2013-03-10 00:00:00,New Orleans Hornets,85
+930,New York Knicks,113,2013-03-10 00:30:00,Utah Jazz,84
+931,Phoenix Suns,107,2013-03-10 00:00:00,Houston Rockets,105
+932,Washington Wizards,104,2013-03-10 01:00:00,Charlotte Bobcats,87
+933,Los Angeles Clippers,129,2013-03-10 22:30:00,Detroit Pistons,97
+934,Los Angeles Lakers,90,2013-03-10 16:30:00,Chicago Bulls,81
+935,Miami Heat,105,2013-03-10 22:00:00,Indiana Pacers,91
+936,Minnesota Timberwolves,77,2013-03-10 22:00:00,Dallas Mavericks,100
+937,New Orleans Hornets,98,2013-03-10 22:00:00,Portland Trail Blazers,96
+938,Oklahoma City Thunder,91,2013-03-10 16:00:00,Boston Celtics,79
+939,Orlando Magic,99,2013-03-10 22:00:00,Philadelphia 76ers,91
+940,Sacramento Kings,113,2013-03-10 22:00:00,Milwaukee Bucks,115
+941,Toronto Raptors,100,2013-03-10 22:00:00,Cleveland Cavaliers,96
+942,Golden State Warriors,92,2013-03-11 23:30:00,New York Knicks,63
+943,Philadelphia 76ers,106,2013-03-11 23:00:00,Brooklyn Nets,97
+944,Phoenix Suns,93,2013-03-11 23:00:00,Denver Nuggets,108
+945,San Antonio Spurs,105,2013-03-11 23:30:00,Oklahoma City Thunder,93
+946,Utah Jazz,103,2013-03-11 23:00:00,Detroit Pistons,90
+947,Brooklyn Nets,108,2013-03-12 23:30:00,New Orleans Hornets,98
+948,Charlotte Bobcats,100,2013-03-12 23:00:00,Boston Celtics,74
+949,Cleveland Cavaliers,95,2013-03-12 23:00:00,Washington Wizards,90
+950,Miami Heat,98,2013-03-12 23:30:00,Atlanta Hawks,81
+951,Milwaukee Bucks,108,2013-03-12 23:00:00,Dallas Mavericks,115
+952,Minnesota Timberwolves,107,2013-03-12 23:00:00,San Antonio Spurs,83
+953,Orlando Magic,97,2013-03-12 23:00:00,Los Angeles Lakers,106
+954,Portland Trail Blazers,97,2013-03-12 23:00:00,Memphis Grizzlies,102
+955,Atlanta Hawks,96,2013-03-13 23:30:00,Los Angeles Lakers,92
+956,Boston Celtics,112,2013-03-13 23:30:00,Toronto Raptors,88
+957,Denver Nuggets,117,2013-03-14 00:30:00,New York Knicks,94
+958,Golden State Warriors,105,2013-03-13 23:30:00,Detroit Pistons,97
+959,Houston Rockets,111,2013-03-13 23:00:00,Phoenix Suns,81
+960,Indiana Pacers,107,2013-03-13 23:00:00,Minnesota Timberwolves,91
+961,Los Angeles Clippers,85,2013-03-13 23:30:00,Memphis Grizzlies,96
+962,Oklahoma City Thunder,110,2013-03-13 23:00:00,Utah Jazz,87
+963,Philadelphia 76ers,94,2013-03-13 23:00:00,Miami Heat,98
+964,Sacramento Kings,121,2013-03-13 23:00:00,Chicago Bulls,79
+965,Washington Wizards,106,2013-03-13 23:00:00,Milwaukee Bucks,93
+966,Portland Trail Blazers,105,2013-03-14 23:30:00,New York Knicks,90
+967,San Antonio Spurs,92,2013-03-14 23:00:00,Dallas Mavericks,91
+968,Atlanta Hawks,107,2013-03-15 23:30:00,Phoenix Suns,94
+969,Dallas Mavericks,96,2013-03-15 23:30:00,Cleveland Cavaliers,86
+970,Denver Nuggets,87,2013-03-15 23:00:00,Memphis Grizzlies,80
+971,Golden State Warriors,95,2013-03-15 23:30:00,Chicago Bulls,113
+972,Houston Rockets,108,2013-03-15 23:00:00,Minnesota Timberwolves,100
+973,Indiana Pacers,93,2013-03-15 23:00:00,Los Angeles Lakers,99
+974,Milwaukee Bucks,94,2013-03-15 23:30:00,Miami Heat,107
+975,Oklahoma City Thunder,117,2013-03-15 23:00:00,Orlando Magic,104
+976,Toronto Raptors,92,2013-03-15 23:00:00,Charlotte Bobcats,78
+977,Washington Wizards,96,2013-03-15 23:00:00,New Orleans Hornets,87
+978,Boston Celtics,105,2013-03-16 23:30:00,Charlotte Bobcats,88
+979,Philadelphia 76ers,98,2013-03-16 23:30:00,Indiana Pacers,91
+980,Portland Trail Blazers,112,2013-03-16 23:00:00,Detroit Pistons,101
+981,San Antonio Spurs,119,2013-03-16 23:30:00,Cleveland Cavaliers,113
+982,Utah Jazz,90,2013-03-17 00:00:00,Memphis Grizzlies,84
+983,Washington Wizards,127,2013-03-16 23:00:00,Phoenix Suns,105
+984,Brooklyn Nets,93,2013-03-18 00:00:00,Atlanta Hawks,105
+985,Dallas Mavericks,101,2013-03-17 22:30:00,Oklahoma City Thunder,107
+986,Houston Rockets,78,2013-03-17 22:00:00,Golden State Warriors,108
+987,Los Angeles Clippers,93,2013-03-17 16:30:00,New York Knicks,80
+988,Los Angeles Lakers,113,2013-03-17 22:30:00,Sacramento Kings,102
+989,Milwaukee Bucks,115,2013-03-17 16:00:00,Orlando Magic,109
+990,Minnesota Timberwolves,97,2013-03-17 22:00:00,New Orleans Hornets,95
+991,Toronto Raptors,91,2013-03-17 17:00:00,Miami Heat,108
+992,Atlanta Hawks,113,2013-03-18 23:30:00,Dallas Mavericks,127
+993,Boston Celtics,103,2013-03-19 00:00:00,Miami Heat,105
+994,Charlotte Bobcats,119,2013-03-18 23:00:00,Washington Wizards,114
+995,Chicago Bulls,118,2013-03-18 23:00:00,Denver Nuggets,119
+996,Cleveland Cavaliers,90,2013-03-18 23:00:00,Indiana Pacers,111
+997,Detroit Pistons,82,2013-03-18 23:30:00,Brooklyn Nets,119
+998,Memphis Grizzlies,92,2013-03-18 23:00:00,Minnesota Timberwolves,77
+999,New Orleans Hornets,72,2013-03-18 23:00:00,Golden State Warriors,93
+1000,Philadelphia 76ers,101,2013-03-18 23:00:00,Portland Trail Blazers,100
+1001,Phoenix Suns,99,2013-03-18 23:00:00,Los Angeles Lakers,76
+1002,Utah Jazz,83,2013-03-19 00:30:00,New York Knicks,90
+1003,Indiana Pacers,95,2013-03-19 23:00:00,Orlando Magic,73
+1004,Milwaukee Bucks,102,2013-03-19 23:00:00,Portland Trail Blazers,95
+1005,Oklahoma City Thunder,104,2013-03-19 23:00:00,Denver Nuggets,114
+1006,Sacramento Kings,116,2013-03-19 23:00:00,Los Angeles Clippers,101
+1007,Atlanta Hawks,98,2013-03-20 23:30:00,Milwaukee Bucks,90
+1008,Charlotte Bobcats,107,2013-03-20 23:00:00,Toronto Raptors,101
+1009,Cleveland Cavaliers,95,2013-03-20 23:00:00,Miami Heat,98
+1010,Dallas Mavericks,96,2013-03-20 23:00:00,Brooklyn Nets,113
+1011,Houston Rockets,100,2013-03-20 23:00:00,Utah Jazz,93
+1012,Los Angeles Clippers,101,2013-03-20 23:30:00,Philadelphia 76ers,72
+1013,Memphis Grizzlies,90,2013-03-20 23:00:00,Oklahoma City Thunder,89
+1014,New Orleans Hornets,87,2013-03-20 23:00:00,Boston Celtics,86
+1015,New York Knicks,106,2013-03-20 23:30:00,Orlando Magic,94
+1016,Phoenix Suns,79,2013-03-20 23:00:00,Washington Wizards,88
+1017,San Antonio Spurs,104,2013-03-20 23:30:00,Golden State Warriors,93
+1018,Chicago Bulls,89,2013-03-21 23:00:00,Portland Trail Blazers,99
+1019,Denver Nuggets,101,2013-03-21 23:00:00,Philadelphia 76ers,100
+1020,Sacramento Kings,101,2013-03-21 23:00:00,Minnesota Timberwolves,98
+1021,Atlanta Hawks,93,2013-03-22 23:30:00,Portland Trail Blazers,104
+1022,Dallas Mavericks,104,2013-03-22 23:30:00,Boston Celtics,94
+1023,Houston Rockets,116,2013-03-22 23:00:00,Cleveland Cavaliers,78
+1024,Indiana Pacers,102,2013-03-22 23:00:00,Milwaukee Bucks,78
+1025,Los Angeles Lakers,100,2013-03-22 23:30:00,Washington Wizards,103
+1026,Miami Heat,103,2013-03-22 23:30:00,Detroit Pistons,89
+1027,New Orleans Hornets,90,2013-03-22 23:00:00,Memphis Grizzlies,83
+1028,Orlando Magic,89,2013-03-22 23:00:00,Oklahoma City Thunder,97
+1029,Phoenix Suns,86,2013-03-22 23:00:00,Minnesota Timberwolves,117
+1030,San Antonio Spurs,104,2013-03-22 23:30:00,Utah Jazz,97
+1031,Toronto Raptors,94,2013-03-22 23:00:00,New York Knicks,99
+1032,Charlotte Bobcats,91,2013-03-23 23:00:00,Detroit Pistons,92
+1033,Chicago Bulls,87,2013-03-23 23:00:00,Indiana Pacers,84
+1034,Denver Nuggets,101,2013-03-23 23:00:00,Sacramento Kings,95
+1035,Golden State Warriors,101,2013-03-23 23:30:00,Washington Wizards,92
+1036,Los Angeles Clippers,101,2013-03-23 23:30:00,Brooklyn Nets,95
+1037,Memphis Grizzlies,110,2013-03-23 23:00:00,Boston Celtics,106
+1038,New York Knicks,110,2013-03-23 23:30:00,Toronto Raptors,84
+1039,Dallas Mavericks,113,2013-03-24 22:30:00,Utah Jazz,108
+1040,Houston Rockets,96,2013-03-24 22:00:00,San Antonio Spurs,95
+1041,Miami Heat,109,2013-03-24 22:00:00,Charlotte Bobcats,77
+1042,Milwaukee Bucks,99,2013-03-24 18:00:00,Atlanta Hawks,104
+1043,Minnesota Timberwolves,97,2013-03-24 22:00:00,Chicago Bulls,104
+1044,Oklahoma City Thunder,103,2013-03-24 22:00:00,Portland Trail Blazers,83
+1045,Phoenix Suns,100,2013-03-24 22:00:00,Brooklyn Nets,102
+1046,Sacramento Kings,103,2013-03-24 22:00:00,Philadelphia 76ers,117
+1047,Golden State Warriors,109,2013-03-25 23:30:00,Los Angeles Lakers,103
+1048,Indiana Pacers,100,2013-03-25 23:00:00,Atlanta Hawks,94
+1049,New Orleans Hornets,110,2013-03-25 23:00:00,Denver Nuggets,86
+1050,Orlando Magic,94,2013-03-25 23:00:00,Miami Heat,108
+1051,Utah Jazz,107,2013-03-25 23:00:00,Philadelphia 76ers,91
+1052,Washington Wizards,107,2013-03-25 23:00:00,Memphis Grizzlies,94
+1053,Boston Celtics,85,2013-03-26 23:00:00,New York Knicks,100
+1054,Dallas Mavericks,109,2013-03-27 00:30:00,Los Angeles Clippers,102
+1055,Detroit Pistons,82,2013-03-26 23:30:00,Minnesota Timberwolves,105
+1056,Charlotte Bobcats,114,2013-03-27 23:00:00,Orlando Magic,108
+1057,Chicago Bulls,101,2013-03-27 23:00:00,Miami Heat,97
+1058,Cleveland Cavaliers,92,2013-03-27 23:00:00,Boston Celtics,93
+1059,Golden State Warriors,98,2013-03-27 23:30:00,Sacramento Kings,105
+1060,Houston Rockets,91,2013-03-27 23:00:00,Indiana Pacers,100
+1061,Minnesota Timberwolves,117,2013-03-27 23:00:00,Los Angeles Lakers,120
+1062,New Orleans Hornets,91,2013-03-27 23:00:00,Los Angeles Clippers,105
+1063,New York Knicks,108,2013-03-27 23:30:00,Memphis Grizzlies,101
+1064,Oklahoma City Thunder,103,2013-03-27 23:00:00,Washington Wizards,80
+1065,Philadelphia 76ers,100,2013-03-27 23:00:00,Milwaukee Bucks,92
+1066,Portland Trail Blazers,93,2013-03-27 23:30:00,Brooklyn Nets,111
+1067,San Antonio Spurs,100,2013-03-27 23:30:00,Denver Nuggets,99
+1068,Toronto Raptors,88,2013-03-27 23:00:00,Atlanta Hawks,107
+1069,Utah Jazz,103,2013-03-27 23:00:00,Phoenix Suns,88
+1070,Dallas Mavericks,78,2013-03-28 23:30:00,Indiana Pacers,103
+1071,Milwaukee Bucks,113,2013-03-28 23:00:00,Los Angeles Lakers,103
+1072,Phoenix Suns,103,2013-03-28 23:00:00,Sacramento Kings,117
+1073,Boston Celtics,118,2013-03-29 23:30:00,Atlanta Hawks,107
+1074,Cleveland Cavaliers,87,2013-03-29 23:30:00,Philadelphia 76ers,97
+1075,Denver Nuggets,109,2013-03-29 23:00:00,Brooklyn Nets,87
+1076,Detroit Pistons,82,2013-03-29 23:30:00,Toronto Raptors,99
+1077,Memphis Grizzlies,103,2013-03-29 23:00:00,Houston Rockets,94
+1078,Minnesota Timberwolves,101,2013-03-29 23:00:00,Oklahoma City Thunder,93
+1079,New Orleans Hornets,89,2013-03-29 23:00:00,Miami Heat,108
+1080,New York Knicks,111,2013-03-29 23:30:00,Charlotte Bobcats,102
+1081,Orlando Magic,97,2013-03-29 23:00:00,Washington Wizards,92
+1082,Portland Trail Blazers,95,2013-03-29 23:00:00,Utah Jazz,105
+1083,San Antonio Spurs,104,2013-03-29 23:30:00,Los Angeles Clippers,102
+1084,Atlanta Hawks,97,2013-03-30 23:00:00,Orlando Magic,88
+1085,Dallas Mavericks,100,2013-03-30 17:00:00,Chicago Bulls,98
+1086,Golden State Warriors,125,2013-03-30 23:30:00,Portland Trail Blazers,98
+1087,Houston Rockets,98,2013-03-30 23:00:00,Los Angeles Clippers,81
+1088,Milwaukee Bucks,99,2013-03-30 23:30:00,Oklahoma City Thunder,109
+1089,Minnesota Timberwolves,86,2013-03-30 23:00:00,Memphis Grizzlies,99
+1090,Philadelphia 76ers,100,2013-03-31 00:00:00,Charlotte Bobcats,92
+1091,Phoenix Suns,104,2013-03-30 23:00:00,Indiana Pacers,112
+1092,Sacramento Kings,98,2013-03-30 23:00:00,Los Angeles Lakers,103
+1093,Utah Jazz,116,2013-03-30 23:00:00,Brooklyn Nets,107
+1094,Chicago Bulls,95,2013-03-31 22:00:00,Detroit Pistons,94
+1095,New Orleans Hornets,112,2013-03-31 21:00:00,Cleveland Cavaliers,92
+1096,New York Knicks,108,2013-03-31 23:30:00,Boston Celtics,89
+1097,San Antonio Spurs,86,2013-03-31 22:00:00,Miami Heat,88
+1098,Washington Wizards,109,2013-03-31 22:00:00,Toronto Raptors,92
+1099,Atlanta Hawks,102,2013-04-01 23:30:00,Cleveland Cavaliers,94
+1100,Houston Rockets,111,2013-04-01 23:00:00,Orlando Magic,103
+1101,Los Angeles Clippers,106,2013-04-01 23:30:00,Indiana Pacers,109
+1102,Memphis Grizzlies,92,2013-04-01 23:00:00,San Antonio Spurs,90
+1103,Milwaukee Bucks,131,2013-04-01 23:00:00,Charlotte Bobcats,102
+1104,Minnesota Timberwolves,110,2013-04-01 23:00:00,Boston Celtics,100
+1105,Toronto Raptors,98,2013-04-01 23:00:00,Detroit Pistons,108
+1106,Utah Jazz,112,2013-04-01 23:00:00,Portland Trail Blazers,102
+1107,Los Angeles Lakers,101,2013-04-02 23:30:00,Dallas Mavericks,81
+1108,Miami Heat,90,2013-04-03 00:00:00,New York Knicks,102
+1109,Washington Wizards,90,2013-04-02 23:00:00,Chicago Bulls,86
+1110,Atlanta Hawks,82,2013-04-03 23:00:00,New York Knicks,95
+1111,Boston Celtics,98,2013-04-03 23:30:00,Detroit Pistons,93
+1112,Charlotte Bobcats,88,2013-04-03 23:00:00,Philadelphia 76ers,83
+1113,Cleveland Cavaliers,95,2013-04-03 23:00:00,Brooklyn Nets,113
+1114,Golden State Warriors,98,2013-04-03 23:30:00,New Orleans Hornets,88
+1115,Los Angeles Clippers,126,2013-04-03 23:30:00,Phoenix Suns,101
+1116,Milwaukee Bucks,98,2013-04-03 23:00:00,Minnesota Timberwolves,107
+1117,Portland Trail Blazers,76,2013-04-03 23:00:00,Memphis Grizzlies,94
+1118,Sacramento Kings,102,2013-04-03 23:00:00,Houston Rockets,112
+1119,San Antonio Spurs,98,2013-04-03 23:30:00,Orlando Magic,84
+1120,Toronto Raptors,88,2013-04-03 23:00:00,Washington Wizards,78
+1121,Utah Jazz,96,2013-04-03 23:00:00,Denver Nuggets,113
+1122,Brooklyn Nets,90,2013-04-04 23:00:00,Chicago Bulls,92
+1123,Denver Nuggets,95,2013-04-04 23:00:00,Dallas Mavericks,94
+1124,Oklahoma City Thunder,100,2013-04-05 00:30:00,San Antonio Spurs,88
+1125,Atlanta Hawks,90,2013-04-05 23:30:00,Philadelphia 76ers,101
+1126,Boston Celtics,91,2013-04-05 23:30:00,Cleveland Cavaliers,97
+1127,Charlotte Bobcats,79,2013-04-06 00:00:00,Miami Heat,89
+1128,Chicago Bulls,87,2013-04-05 23:00:00,Orlando Magic,86
+1129,Indiana Pacers,75,2013-04-06 00:00:00,Oklahoma City Thunder,97
+1130,Los Angeles Lakers,86,2013-04-05 23:30:00,Memphis Grizzlies,84
+1131,Minnesota Timberwolves,93,2013-04-05 23:00:00,Toronto Raptors,95
+1132,New York Knicks,101,2013-04-05 23:30:00,Milwaukee Bucks,83
+1133,Phoenix Suns,107,2013-04-05 23:00:00,Golden State Warriors,111
+1134,Portland Trail Blazers,98,2013-04-05 23:30:00,Houston Rockets,116
+1135,Sacramento Kings,108,2013-04-05 23:00:00,Dallas Mavericks,117
+1136,Utah Jazz,95,2013-04-05 23:00:00,New Orleans Hornets,83
+1137,Brooklyn Nets,105,2013-04-06 23:30:00,Charlotte Bobcats,96
+1138,Denver Nuggets,132,2013-04-06 23:00:00,Houston Rockets,114
+1139,Miami Heat,106,2013-04-06 23:30:00,Philadelphia 76ers,87
+1140,Milwaukee Bucks,100,2013-04-06 23:30:00,Toronto Raptors,83
+1141,Minnesota Timberwolves,107,2013-04-06 23:00:00,Detroit Pistons,101
+1142,San Antonio Spurs,99,2013-04-06 23:30:00,Atlanta Hawks,97
+1143,Washington Wizards,104,2013-04-06 23:00:00,Indiana Pacers,85
+1144,Boston Celtics,107,2013-04-07 22:00:00,Washington Wizards,96
+1145,Cleveland Cavaliers,91,2013-04-07 22:00:00,Orlando Magic,85
+1146,Detroit Pistons,99,2013-04-07 23:30:00,Chicago Bulls,85
+1147,Golden State Warriors,90,2013-04-07 21:00:00,Utah Jazz,97
+1148,Los Angeles Clippers,109,2013-04-07 16:30:00,Los Angeles Lakers,95
+1149,Oklahoma City Thunder,120,2013-04-07 16:00:00,New York Knicks,125
+1150,Phoenix Suns,92,2013-04-07 22:00:00,New Orleans Hornets,95
+1151,Portland Trail Blazers,91,2013-04-07 22:00:00,Dallas Mavericks,96
+1152,Sacramento Kings,87,2013-04-07 19:00:00,Memphis Grizzlies,89
+1153,Brooklyn Nets,104,2013-04-09 23:30:00,Philadelphia 76ers,83
+1154,Chicago Bulls,98,2013-04-09 23:00:00,Toronto Raptors,101
+1155,Golden State Warriors,105,2013-04-09 23:30:00,Minnesota Timberwolves,89
+1156,Houston Rockets,101,2013-04-09 23:00:00,Phoenix Suns,98
+1157,Indiana Pacers,99,2013-04-09 23:00:00,Cleveland Cavaliers,94
+1158,Los Angeles Lakers,104,2013-04-09 23:30:00,New Orleans Hornets,96
+1159,Memphis Grizzlies,94,2013-04-09 23:00:00,Charlotte Bobcats,75
+1160,Miami Heat,94,2013-04-09 23:30:00,Milwaukee Bucks,83
+1161,New York Knicks,120,2013-04-09 23:30:00,Washington Wizards,99
+1162,Utah Jazz,80,2013-04-09 23:00:00,Oklahoma City Thunder,90
+1163,Boston Celtics,93,2013-04-11 00:00:00,Brooklyn Nets,101
+1164,Cleveland Cavaliers,104,2013-04-10 23:00:00,Detroit Pistons,111
+1165,Dallas Mavericks,91,2013-04-10 23:30:00,Phoenix Suns,102
+1166,Denver Nuggets,96,2013-04-11 00:30:00,San Antonio Spurs,86
+1167,Los Angeles Clippers,111,2013-04-10 23:30:00,Minnesota Timberwolves,95
+1168,Orlando Magic,113,2013-04-10 23:00:00,Milwaukee Bucks,103
+1169,Philadelphia 76ers,101,2013-04-10 23:00:00,Atlanta Hawks,124
+1170,Portland Trail Blazers,106,2013-04-10 23:00:00,Los Angeles Lakers,113
+1171,Sacramento Kings,121,2013-04-10 23:00:00,New Orleans Hornets,110
+1172,Washington Wizards,98,2013-04-10 23:00:00,Miami Heat,103
+1173,Chicago Bulls,118,2013-04-11 23:00:00,New York Knicks,111
+1174,Golden State Warriors,97,2013-04-11 23:30:00,Oklahoma City Thunder,116
+1175,Atlanta Hawks,109,2013-04-12 23:30:00,Milwaukee Bucks,104
+1176,Cleveland Cavaliers,91,2013-04-12 23:30:00,New York Knicks,101
+1177,Dallas Mavericks,108,2013-04-12 23:30:00,Denver Nuggets,105
+1178,Detroit Pistons,113,2013-04-12 23:30:00,Charlotte Bobcats,93
+1179,Houston Rockets,78,2013-04-12 23:00:00,Memphis Grizzlies,82
+1180,Indiana Pacers,109,2013-04-12 23:00:00,Brooklyn Nets,117
+1181,Los Angeles Lakers,118,2013-04-12 23:30:00,Golden State Warriors,116
+1182,Miami Heat,109,2013-04-12 23:30:00,Boston Celtics,101
+1183,New Orleans Hornets,93,2013-04-12 23:00:00,Los Angeles Clippers,96
+1184,Portland Trail Blazers,90,2013-04-12 23:00:00,Oklahoma City Thunder,106
+1185,San Antonio Spurs,108,2013-04-12 23:30:00,Sacramento Kings,101
+1186,Toronto Raptors,97,2013-04-12 23:00:00,Chicago Bulls,88
+1187,Utah Jazz,107,2013-04-12 23:00:00,Minnesota Timberwolves,100
+1188,Washington Wizards,86,2013-04-12 23:00:00,Philadelphia 76ers,97
+1189,Charlotte Bobcats,95,2013-04-13 23:00:00,Milwaukee Bucks,85
+1190,Memphis Grizzlies,87,2013-04-13 23:00:00,Los Angeles Clippers,91
+1191,Minnesota Timberwolves,105,2013-04-13 23:00:00,Phoenix Suns,93
+1192,Orlando Magic,88,2013-04-13 23:00:00,Boston Celtics,120
+1193,Denver Nuggets,118,2013-04-14 19:00:00,Portland Trail Blazers,109
+1194,Houston Rockets,121,2013-04-14 22:00:00,Sacramento Kings,100
+1195,Los Angeles Lakers,91,2013-04-14 22:30:00,San Antonio Spurs,86
+1196,Miami Heat,105,2013-04-14 17:00:00,Chicago Bulls,93
+1197,New Orleans Hornets,89,2013-04-14 21:00:00,Dallas Mavericks,107
+1198,New York Knicks,90,2013-04-14 19:30:00,Indiana Pacers,80
+1199,Philadelphia 76ers,91,2013-04-14 19:30:00,Cleveland Cavaliers,77
+1200,Toronto Raptors,93,2013-04-14 19:30:00,Brooklyn Nets,87
+1201,Brooklyn Nets,106,2013-04-15 23:30:00,Washington Wizards,101
+1202,Charlotte Bobcats,106,2013-04-15 23:00:00,New York Knicks,95
+1203,Cleveland Cavaliers,95,2013-04-15 23:00:00,Miami Heat,96
+1204,Dallas Mavericks,97,2013-04-15 23:00:00,Memphis Grizzlies,103
+1205,Detroit Pistons,109,2013-04-15 23:30:00,Philadelphia 76ers,101
+1206,Golden State Warriors,116,2013-04-15 23:30:00,San Antonio Spurs,106
+1207,Milwaukee Bucks,111,2013-04-15 23:00:00,Denver Nuggets,112
+1208,Minnesota Timberwolves,80,2013-04-15 23:00:00,Utah Jazz,96
+1209,Oklahoma City Thunder,104,2013-04-15 23:00:00,Sacramento Kings,95
+1210,Orlando Magic,84,2013-04-15 23:00:00,Chicago Bulls,102
+1211,Phoenix Suns,119,2013-04-15 23:00:00,Houston Rockets,112
+1212,Atlanta Hawks,96,2013-04-17 00:00:00,Toronto Raptors,113
+1213,Los Angeles Clippers,93,2013-04-16 23:30:00,Portland Trail Blazers,77
+1214,Brooklyn Nets,103,2013-04-18 00:00:00,Detroit Pistons,99
+1215,Charlotte Bobcats,105,2013-04-18 00:00:00,Cleveland Cavaliers,98
+1216,Chicago Bulls,95,2013-04-17 23:00:00,Washington Wizards,92
+1217,Dallas Mavericks,99,2013-04-17 23:00:00,New Orleans Hornets,87
+1218,Denver Nuggets,118,2013-04-17 22:00:00,Phoenix Suns,98
+1219,Indiana Pacers,95,2013-04-18 00:00:00,Philadelphia 76ers,105
+1220,Los Angeles Lakers,99,2013-04-17 23:30:00,Houston Rockets,95
+1221,Memphis Grizzlies,86,2013-04-17 23:00:00,Utah Jazz,70
+1222,Miami Heat,105,2013-04-18 00:00:00,Orlando Magic,93
+1223,New York Knicks,98,2013-04-18 00:00:00,Atlanta Hawks,92
+1224,Oklahoma City Thunder,89,2013-04-17 23:00:00,Milwaukee Bucks,95
+1225,Portland Trail Blazers,88,2013-04-17 23:30:00,Golden State Warriors,99
+1226,Sacramento Kings,108,2013-04-17 23:30:00,Los Angeles Clippers,112
+1227,San Antonio Spurs,95,2013-04-17 23:00:00,Minnesota Timberwolves,108
+1228,Toronto Raptors,114,2013-04-18 00:00:00,Boston Celtics,90
+1229,Brooklyn Nets,106,2013-04-21 00:00:00,Chicago Bulls,89
+1230,Denver Nuggets,97,2013-04-20 21:30:00,Golden State Warriors,95
+1231,Los Angeles Clippers,112,2013-04-21 02:30:00,Memphis Grizzlies,91
+1232,New York Knicks,85,2013-04-20 19:00:00,Boston Celtics,78
+1233,Indiana Pacers,107,2013-04-21 17:00:00,Atlanta Hawks,90
+1234,Miami Heat,110,2013-04-21 23:00:00,Milwaukee Bucks,87
+1235,Oklahoma City Thunder,120,2013-04-22 01:30:00,Houston Rockets,91
+1236,San Antonio Spurs,91,2013-04-21 19:30:00,Los Angeles Lakers,79
+1237,Brooklyn Nets,82,2013-04-23 00:00:00,Chicago Bulls,90
+1238,Los Angeles Clippers,93,2013-04-23 02:30:00,Memphis Grizzlies,91
+1239,Denver Nuggets,117,2013-04-24 02:30:00,Golden State Warriors,131
+1240,Miami Heat,98,2013-04-23 23:30:00,Milwaukee Bucks,86
+1241,New York Knicks,87,2013-04-24 00:00:00,Boston Celtics,71
+1242,Indiana Pacers,113,2013-04-24 23:30:00,Atlanta Hawks,98
+1243,Oklahoma City Thunder,105,2013-04-24 23:00:00,Houston Rockets,102
+1244,San Antonio Spurs,102,2013-04-25 01:30:00,Los Angeles Lakers,91
+1245,Chicago Bulls,79,2013-04-26 00:30:00,Brooklyn Nets,76
+1246,Memphis Grizzlies,94,2013-04-26 01:30:00,Los Angeles Clippers,82
+1247,Milwaukee Bucks,91,2013-04-25 23:00:00,Miami Heat,104
+1248,Boston Celtics,76,2013-04-27 00:00:00,New York Knicks,90
+1249,Golden State Warriors,110,2013-04-27 02:30:00,Denver Nuggets,108
+1250,Los Angeles Lakers,89,2013-04-27 02:30:00,San Antonio Spurs,120
+1251,Atlanta Hawks,90,2013-04-27 23:00:00,Indiana Pacers,69
+1252,Chicago Bulls,142,2013-04-27 18:00:00,Brooklyn Nets,134
+1253,Houston Rockets,101,2013-04-28 01:30:00,Oklahoma City Thunder,104
+1254,Memphis Grizzlies,104,2013-04-27 20:30:00,Los Angeles Clippers,83
+1255,Boston Celtics,97,2013-04-28 17:00:00,New York Knicks,90
+1256,Golden State Warriors,115,2013-04-29 01:30:00,Denver Nuggets,101
+1257,Los Angeles Lakers,82,2013-04-28 23:00:00,San Antonio Spurs,103
+1258,Milwaukee Bucks,77,2013-04-28 19:30:00,Miami Heat,88
+1259,Atlanta Hawks,102,2013-04-29 23:30:00,Indiana Pacers,91
+1260,Brooklyn Nets,110,2013-04-29 23:00:00,Chicago Bulls,91
+1261,Houston Rockets,105,2013-04-30 01:30:00,Oklahoma City Thunder,103
+1262,Denver Nuggets,107,2013-05-01 00:00:00,Golden State Warriors,100
+1263,Los Angeles Clippers,93,2013-05-01 02:30:00,Memphis Grizzlies,103
+1264,Indiana Pacers,106,2013-05-02 00:00:00,Atlanta Hawks,83
+1265,New York Knicks,86,2013-05-01 23:00:00,Boston Celtics,92
+1266,Oklahoma City Thunder,100,2013-05-02 01:30:00,Houston Rockets,107
+1267,Chicago Bulls,92,2013-05-03 00:00:00,Brooklyn Nets,95
+1268,Golden State Warriors,92,2013-05-03 02:30:00,Denver Nuggets,88
+1269,Atlanta Hawks,73,2013-05-03 23:00:00,Indiana Pacers,81
+1270,Boston Celtics,80,2013-05-03 23:00:00,New York Knicks,88
+1271,Houston Rockets,94,2013-05-04 01:30:00,Oklahoma City Thunder,103
+1272,Memphis Grizzlies,118,2013-05-04 01:30:00,Los Angeles Clippers,105
+1273,Brooklyn Nets,93,2013-05-05 00:00:00,Chicago Bulls,99
+1274,New York Knicks,95,2013-05-05 19:30:00,Indiana Pacers,102
+1275,Oklahoma City Thunder,93,2013-05-05 17:00:00,Memphis Grizzlies,91
+1276,Miami Heat,86,2013-05-06 23:00:00,Chicago Bulls,93
+1277,San Antonio Spurs,129,2013-05-07 01:30:00,Golden State Warriors,127
+1278,New York Knicks,105,2013-05-07 23:00:00,Indiana Pacers,79
+1279,Oklahoma City Thunder,93,2013-05-08 01:30:00,Memphis Grizzlies,99
+1280,Miami Heat,115,2013-05-08 23:00:00,Chicago Bulls,78
+1281,San Antonio Spurs,91,2013-05-09 01:30:00,Golden State Warriors,100
+1282,Chicago Bulls,94,2013-05-11 00:00:00,Miami Heat,104
+1283,Golden State Warriors,92,2013-05-11 02:30:00,San Antonio Spurs,102
+1284,Indiana Pacers,82,2013-05-12 00:00:00,New York Knicks,71
+1285,Memphis Grizzlies,87,2013-05-11 21:00:00,Oklahoma City Thunder,81
+1286,Golden State Warriors,97,2013-05-12 19:30:00,San Antonio Spurs,87
+1287,Chicago Bulls,65,2013-05-13 23:00:00,Miami Heat,88
+1288,Memphis Grizzlies,103,2013-05-14 01:30:00,Oklahoma City Thunder,97
+1289,Indiana Pacers,93,2013-05-14 23:00:00,New York Knicks,82
+1290,San Antonio Spurs,109,2013-05-15 01:30:00,Golden State Warriors,91
+1291,Miami Heat,94,2013-05-15 23:00:00,Chicago Bulls,91
+1292,Oklahoma City Thunder,84,2013-05-16 01:30:00,Memphis Grizzlies,88
+1293,Golden State Warriors,82,2013-05-17 02:30:00,San Antonio Spurs,94
+1294,New York Knicks,85,2013-05-17 00:00:00,Indiana Pacers,75
+1295,Indiana Pacers,106,2013-05-19 00:00:00,New York Knicks,99
+1296,San Antonio Spurs,105,2013-05-19 19:30:00,Memphis Grizzlies,83
+1297,San Antonio Spurs,93,2013-05-22 01:00:00,Memphis Grizzlies,89
+1298,Miami Heat,103,2013-05-23 00:30:00,Indiana Pacers,102
+1299,Miami Heat,93,2013-05-25 00:30:00,Indiana Pacers,97
+1300,Memphis Grizzlies,93,2013-05-26 01:00:00,San Antonio Spurs,104
+1301,Indiana Pacers,96,2013-05-27 00:30:00,Miami Heat,114
+1302,Memphis Grizzlies,86,2013-05-28 01:00:00,San Antonio Spurs,93
+1303,Indiana Pacers,99,2013-05-29 00:30:00,Miami Heat,92
+1304,Miami Heat,90,2013-05-31 00:30:00,Indiana Pacers,79
+1305,Indiana Pacers,91,2013-06-02 00:30:00,Miami Heat,77
+1306,Miami Heat,99,2013-06-04 00:30:00,Indiana Pacers,76
+1307,Miami Heat,88,2013-06-07 01:00:00,San Antonio Spurs,92
+1308,Miami Heat,103,2013-06-10 00:00:00,San Antonio Spurs,84
+1309,San Antonio Spurs,113,2013-06-12 01:00:00,Miami Heat,77
+1310,San Antonio Spurs,93,2013-06-14 01:00:00,Miami Heat,109
+1311,San Antonio Spurs,114,2013-06-17 00:00:00,Miami Heat,104
+1312,Miami Heat,103,2013-06-19 01:00:00,San Antonio Spurs,100
+1313,Miami Heat,95,2013-06-21 01:00:00,San Antonio Spurs,88
